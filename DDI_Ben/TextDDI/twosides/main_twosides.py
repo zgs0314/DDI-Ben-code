@@ -288,7 +288,7 @@ def main():
     parser.add_argument('--adversarial', action='store_true')
     parser.add_argument('--adversarial_task', default='S1', type=str, help='which set to use')
     parser.add_argument('--adversarial_weight', default=1, type=float, help='the weight of adversarial loss')
-    parser.add_argument('--gamma_split', type=int, default=55, choices=[55,60,65,70])
+    parser.add_argument('--gamma_split', type=str, default="55", choices=["55","60","65","70"])
     parser.add_argument('--seed', type=int, default=2, help='random seed')
     parser.add_argument('--dataset_type', type=str, default='finger', help='type of dataset')
     parser.add_argument('--gpu', type=str, default="1", help='gpu id')
