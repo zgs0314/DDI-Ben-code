@@ -1,5 +1,5 @@
-DDI_ben/data/twosides_random/BN_Primekg.txt filter=lfs diff=lfs merge=lfs -text
-TextDDI/data/twosides_random/BN_Primekg.txt filter=lfs diff=lfs merge=lfs -text
-TextDDI/pretrained_model_path/roberta-base-face/pytorch_model.bin filter=lfs diff=lfs merge=lfs -text
-TextDDI/pretrained_model_path/roberta-base/pytorch_model.bin filter=lfs diff=lfs merge=lfs -text
-TextDDI/pretrained_model_path/roberta-base-nocls/pytorch_model.bin filter=lfs diff=lfs merge=lfs -text
+DDI_Ben/DDI_ben/data/twosides_random/BN_Primekg.txt filter=lfs diff=lfs merge=lfs -text
+DDI_Ben/TextDDI/data/twosides_random/BN_Primekg.txt filter=lfs diff=lfs merge=lfs -text
+DDI_Ben/TextDDI/pretrained_model_path/roberta-base-face/pytorch_model.bin filter=lfs diff=lfs merge=lfs -text
+DDI_Ben/TextDDI/pretrained_model_path/roberta-base/pytorch_model.bin filter=lfs diff=lfs merge=lfs -text
+DDI_Ben/TextDDI/pretrained_model_path/roberta-base-nocls/pytorch_model.bin filter=lfs diff=lfs merge=lfs -text
