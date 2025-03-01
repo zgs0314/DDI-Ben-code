@@ -3,7 +3,7 @@
 
 ## Installation
 ### 1. Set Up Environment for `DDI_ben` and `TextDDI`
-The models MLP, MSTE, ComplEx, Decagon, TIGER in `DDI_ben` and `TextDDI` share the same environment. The running environment is a Linux server with Ubuntu. You can set up the environment as follows:
+The models MLP, MSTE, ComplEx, Decagon, TIGER in `DDI_ben` and `TextDDI` share the same environment. Our running environment is a Linux server with Ubuntu. You can set up the environment as follows:
 
 ```bash
 # Create and activate Conda environment
