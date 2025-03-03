@@ -17,8 +17,8 @@ pip install -r DDI_ben/requirements.txt
 
 ### 2. Set Up Environment for `EmerGNN` and `SumGNN`
 `EmerGNN` and `SumGNN` require different environments. Each should be set up separately according to their respective official repositories. You can find the official repositories here:  
-- **EmerGNN**: [EmerGNN Repository](https://github.com/LARS-research/EmerGNN)  
-- **SumGNN**: [SumGNN Repository](https://github.com/yueyu1030/SumGNN)
+- `EmerGNN`: [EmerGNN Repository](https://github.com/LARS-research/EmerGNN)  
+- `SumGNN`: [SumGNN Repository](https://github.com/yueyu1030/SumGNN)
 
 ## Running the Code
 ### 1. Dataset
