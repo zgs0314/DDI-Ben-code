@@ -22,7 +22,11 @@ pip install -r DDI_ben/requirements.txt
 
 ## Running the Code
 ### 1. Dataset
-We provide the dataset in the [DDI_ben/data](https://github.com/zgs0314/DDI-Ben-code/tree/main/DDI_Ben/DDI_ben/data) folder for `DDI_ben`, [TextDDI/data](https://github.com/zgs0314/DDI-Ben-code/tree/main/DDI_Ben/TextDDI/data) folder for `TextDDI`, [EmerGNN/DrugBank/data](https://github.com/zgs0314/DDI-Ben-code/tree/main/DDI_Ben/EmerGNN/DrugBank/data) folder and [EmerGNN/TWOSIDES/data](https://github.com/zgs0314/DDI-Ben-code/tree/main/DDI_Ben/EmerGNN/TWOSIDES/data) folder for `EmerGNN` and [SumGNN/data](https://github.com/zgs0314/DDI-Ben-code/tree/main/DDI_Ben/SumGNN/data) folder for `SumGNN`.
+We provide the dataset in the following folders:
+- `DDI_ben`: [DDI_ben/data](https://github.com/zgs0314/DDI-Ben-code/tree/main/DDI_Ben/DDI_ben/data)
+- `TextDDI`: [TextDDI/data](https://github.com/zgs0314/DDI-Ben-code/tree/main/DDI_Ben/TextDDI/data)
+- `EmerGNN`: [EmerGNN/DrugBank/data](https://github.com/zgs0314/DDI-Ben-code/tree/main/DDI_Ben/EmerGNN/DrugBank/data)
+- `SumGNN`: [SumGNN/data](https://github.com/zgs0314/DDI-Ben-code/tree/main/DDI_Ben/SumGNN/data)
 
 ### 2. Running Scripts
 First, `cd` into the corresponding directory, i.e., DDI_ben, TextDDI, EmerGNN/Drugbank, EmerGNN/TWOSIDES or SumGNN. After that,
