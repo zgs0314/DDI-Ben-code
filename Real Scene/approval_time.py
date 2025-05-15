@@ -4,29 +4,29 @@ import pandas as pd
 import time
 from bs4 import BeautifulSoup
 
-# 定义请求头，模拟浏览器请求
+# Define request headers to simulate browser requests
 headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"
 }
 
-# 代理IP池
+# Proxy IP pool
 proxies = {
     "http": "http://127.0.0.1:7890",
     "https": "http://127.0.0.1:7890",
 }
 
-# 定义一个函数来爬取药品的Description
+# Define a function to scrape drug descriptions
 def get_description(db_id):
     url = f"https://go.drugbank.com/drugs/{db_id}"
     try:
-        # 发送GET请求，添加请求头和代理
+        # Send GET request with headers and proxies
         response = requests.get(url, headers=headers, proxies=proxies)
         response.raise_for_status()
 
-        # 使用BeautifulSoup解析HTML
+        # Parse HTML using BeautifulSoup
         soup = BeautifulSoup(response.content, 'html.parser')
 
-        # 查找Description标签
+        # Find the Description tag
         description_tag = soup.find('dt', text='Description')
         if description_tag:
             description = description_tag.find_next('dd', class_='description').text.strip()
@@ -46,20 +46,20 @@ def main():
     df = pd.read_excel('drug_info_with_mfmw.xlsx')
 
     for index, row in df.iterrows():
-        # 检查当前行的Description
+        # Check current row's Description
         if row['Description'] in ['Description Not Available', 'Not Found']:
             db_id = row['DB number']
             print(f"Fetching description for DB ID: {db_id}")
 
             description = get_description(db_id)
 
-            # 更新Description列
+            # Update the Description column
             df.at[index, 'Description'] = description
 
-            time.sleep(2)  # 增加延时
+            time.sleep(2)  # Add delay to prevent rate limiting
 
-    df.to_excel('drug_info_with_new_description.xlsx', index=False)
-    print("爬取完成")
+    df.to_excel('drug_info_with_approval_date.xlsx', index=False)
+    print("Scraping completed")
 
 
 if __name__ == "__main__":
