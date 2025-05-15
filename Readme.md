@@ -50,3 +50,6 @@ python -W ignore evaluate.py --dataset=S0_finger_55 --n_epoch=40 --epoch_per_tes
 ```bash
 python train.py -d drugbank_finger_55 -e drugbank_finger_55 --gpu=0 --hop=2 --batch=64 --l2=1e-5 --emb_dim=64 -b=8 --lr=5e-4 -s S0 -ne=40 --max_links 120000 -max_h 100
 ```
+
+## Real Scene
+**Real_scene_drugbank** includes DDI data from DrugBank, where drugs are divided into three sequential training-validation-test sets based on their market approval timeline.
