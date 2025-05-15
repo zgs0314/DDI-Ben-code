@@ -41,14 +41,14 @@ def get_description(db_id):
         print(f"Error fetching description for {db_id}: {e}")
         return "Error"
 
-# 主函数
+
 def main():
     df = pd.read_excel('drug_info_with_mfmw.xlsx')
 
     for index, row in df.iterrows():
         # 检查当前行的Description
         if row['Description'] in ['Description Not Available', 'Not Found']:
-            db_id = row['DB编号']
+            db_id = row['DB number']
             print(f"Fetching description for DB ID: {db_id}")
 
             description = get_description(db_id)
@@ -61,6 +61,6 @@ def main():
     df.to_excel('drug_info_with_new_description.xlsx', index=False)
     print("爬取完成")
 
-# 运行主函数
+
 if __name__ == "__main__":
     main()
