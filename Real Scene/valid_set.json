@@ -1,0 +1,1541 @@
+[
+    {
+        "DB编号": "DB00967",
+        "实验编号": 36,
+        "药品名称": "Desloratadine",
+        "上市时间": "2001-12-21",
+        "Description": "A long-acting piperidine derivate with selective H1 antihistaminergic and non-sedating properties. Desloratadine diminishes the typical histaminergic effects on H1-receptors in bronchial smooth muscle, capillaries and gastrointestinal smooth muscle, including vasodilation, bronchoconstriction, increased vascular permeability, pain, itching and spasmodic contractions of gastrointestinal smooth muscle. Desloratadine is used to provide symptomatic relieve of allergic symptoms. Loratadine in which the ethoxycarbonyl group attached to the piperidine ring is replaced by hydrogen. The major metabolite of loratidine, desloratadine is an  antihistamine which is used for the symptomatic relief of allergic conditions including rhinitis and chronic urticaria. It does not readily enter the central nervous system, so does not cause drowsiness.",
+        "分子量": 310.8,
+        "分子式": "C19H19ClN2"
+    },
+    {
+        "DB编号": "DB00947",
+        "实验编号": 649,
+        "药品名称": "Fulvestrant",
+        "上市时间": "2002-04-25",
+        "Description": "A 3-hydroxy steroid that is 17beta-estradiol in which the 7alpha hydrogen has been replaced by a nonyl group in which one of the hydrogens of the terminal methyl has been replaced by a (4,4,5,5,5-pentafluoropentyl)sulfinyl group. An estrogen receptor antagonist, it is used in the treatment of breast cancer. A synthetic estrogen receptor antagonist.  Unlike tamoxifen (which has partial agonist effects) and the aromatase inhibitors (which reduce the estrogen available to tumor cells), fulvestrant binds competitively to estrogen receptors in breast cancer cells, resulting in estrogen receptor deformation and decreased estrogen binding. In vitro studies indicate that fulvestrant reversibly inhibits the growth of tamoxifen-resistant, estrogen-sensitive, human breast cancer cell lines. (NCI04) An estradiol derivative and estrogen receptor antagonist that is used for the treatment of estrogen receptor-positive, locally advanced or metastatic breast cancer.",
+        "分子量": 606.8,
+        "分子式": "C32H47F5O3S"
+    },
+    {
+        "DB编号": "DB00275",
+        "实验编号": 1054,
+        "药品名称": "Olmesartan",
+        "上市时间": "2002-04-25",
+        "Description": "A synthetic imidazole derivative and angiotensin II receptor antagonist with antihypertensive activity. Olmesartan selectively binds to the angiotensin type 1 (AT1) receptor subtype in vascular smooth muscle and adrenal gland, thereby competing with angiotensin II for binding to the AT1 receptor. This prevents angiotensin II-induced vasoconstriction and interferes with angiotensin II-mediated aldosterone secretion, thereby decreasing aldosterone production and preventing aldosterone-stimulated sodium retention and potassium excretion.",
+        "分子量": 446.5,
+        "分子式": "C24H26N6O3"
+    },
+    {
+        "DB编号": "DB00582",
+        "实验编号": 657,
+        "药品名称": "Voriconazole",
+        "上市时间": "2002-05-24",
+        "Description": "A synthetic triazole with antifungal activity. Voriconazole selectively inhibits 14-alpha-lanosterol demethylation in fungi, preventing the production of ergosterol, an essential constituent of the fungal cell membrane, and resulting in fungal cell lysis. (NCI04) A triazole antifungal agent that specifically inhibits STEROL 14-ALPHA-DEMETHYLASE and CYTOCHROME P-450 CYP3A. A triazole-based antifungal agent used for the treatment of esophageal candidiasis, invasive pulmonary aspergillosis, and serious fungal infections caused by Scedosporium apiospermum and Fusarium spp. It is an inhibitor of cytochrome P450 2C9 (CYP2C9) and CYP3A4.",
+        "分子量": 349.31,
+        "分子式": "C16H14F3N5O"
+    },
+    {
+        "DB编号": "DB01175",
+        "实验编号": 324,
+        "药品名称": "Escitalopram",
+        "上市时间": "2002-08-14",
+        "Description": "A 1-[3-(dimethylamino)propyl]-1-(4-fluorophenyl)-1,3-dihydro-2-benzofuran-5-carbonitrile that has S-configuration at the chiral centre. It is the active enantiomer of citalopram. S-enantiomer of CITALOPRAM. Belongs to a class of drugs known as SELECTIVE SEROTONIN REUPTAKE INHIBITORS, used to treat depression and generalized anxiety disorder. The active S-stereoisomer of the selective serotonin reuptake inhibitor (SSRI) citalopram with antidepressant, anti-obsessive-compulsive and antibulimic properties. Escitalopram inhibits the reuptake of the neurotransmitter serotonin (5-HT) at the serotonin reuptake pump of the neuronal membrane of the presynaptic cell, thereby increasing levels of 5-HT within the synaptic cleft and enhancing the actions of serotonin on 5HT1A autoreceptors. Unlike other SSRIs, escitalopram appears to not only bind to a primary high-affinity site on the serotonin transporter protein but also to a secondary lower-affinity allosteric site that is considered to stabilize and prolong drug binding. The oxalate salt of escitalopram, a pure S-enantiomer of the racemic bicyclic phthalane derivative citalopram, with antidepressant activity. As a selective serotonin reuptake inhibitor (SSRI), escitalopram blocks the reuptake of serotonin by neurons in the central nervous system (CNS), thereby potentiating CNS serotonergic activity.",
+        "分子量": 324.4,
+        "分子式": "C20H21FN2O"
+    },
+    {
+        "DB编号": "DB00973",
+        "实验编号": 1480,
+        "药品名称": "Ezetimibe",
+        "上市时间": "2002-10-25",
+        "Description": "A beta-lactam that is azetidin-2-one which is substituted at 1, 3, and 4 by p-fluorophenyl, 3-(p-fluorophenyl)-3-hydroxypropyl, and  4-hydroxyphenyl groups, respectively (the 3R,3'S,4S enantiomer). An azetidine derivative and ANTICHOLESTEREMIC AGENT that inhibits intestinal STEROL absorption. It is used to reduce total CHOLESTEROL; LDL CHOLESTEROL, and APOLIPOPROTEINS B in the treatment of HYPERLIPIDEMIAS. An azetidinone derivative and a cholesterol absorption inhibitor with lipid-lowering activity. Ezetimibe appears to interact physically with cholesterol transporters at the brush border of the small intestine and inhibits the intestinal absorption of cholesterol and related phytosterols. As a result, ezetimibe causes a decrease in the level of blood cholesterol or an increase in the clearance of cholesterol from the bloodstream. Overall, the following effects observed are a reduction of hepatic cholesterol stores and a reduction of total cholesterol, LDL cholesterol, and other triglycerides in the blood.",
+        "分子量": 409.4,
+        "分子式": "C24H21F2NO3"
+    },
+    {
+        "DB编号": "DB01238",
+        "实验编号": 932,
+        "药品名称": "Aripiprazole",
+        "上市时间": "2002-11-15",
+        "Description": "A piperazine and quinolone derivative that is used primarily as an antipsychotic agent. It is a partial agonist of SEROTONIN RECEPTOR, 5-HT1A and DOPAMINE D2 RECEPTORS, where it also functions as a post-synaptic antagonist, and an antagonist of SEROTONIN RECEPTOR, 5-HT2A. It is used for the treatment of SCHIZOPHRENIA and BIPOLAR DISORDER, and as an adjunct therapy for the treatment of depression. A quinoline derivate and atypical anti-psychotic agent. Aripiprazole has partial agonistic activity at dopamine D2 receptors and serotonin 5-HT1A receptors, as well as potent antagonistic activity on serotonin 5-HT2A receptors. This drug stabilizes dopamine and serotonin activity in the limbic and cortical system. Aripiprazole is used in managing symptoms of schizophrenia and of acute manic and mixed episodes associated with bipolar I disorders. An N-arylpiperazine that is piperazine substituted by a 4-[(2-oxo-1,2,3,4-tetrahydroquinolin-7-yl)oxy]butyl group at position 1 and by a 2,3-dichlorophenyl group at position 4. It is an antipsychotic drug used for the treatment of Schizophrenia, and other mood disorders.",
+        "分子量": 448.4,
+        "分子式": "C23H27Cl2N3O2"
+    },
+    {
+        "DB编号": "DB00289",
+        "实验编号": 610,
+        "药品名称": "Atomoxetine",
+        "上市时间": "2002-11-26",
+        "Description": "A  secondary amino compound having methyl and 3-(2-methylphenoxy)-3-phenylpropan-1-yl substituents. The hydrochloride salt of atomoxetine.",
+        "分子量": 255.35,
+        "分子式": "C17H21NO"
+    },
+    {
+        "DB编号": "DB00455",
+        "实验编号": 401,
+        "药品名称": "Loratadine",
+        "上市时间": "2002-11-27",
+        "Description": "A benzocycloheptapyridine that is 6,11-dihydro-5H-benzo[5,6]cyclohepta[1,2-b]pyridine substituted by a chloro group at position 8 and a 1-(ethoxycarbonyl)piperidin-4-ylidene group at position 11. It is a H1-receptor antagonist commonly employed in the treatment of allergic disorders. A piperidine histamine H1-receptor antagonist with anti-allergic properties and without sedative effects. Loratadine blocks the H1 histamine receptor and prevents the symptoms that are caused by histamine activity on capillaries, bronchial smooth muscle, and gastrointestinal smooth muscle, including vasodilatation, increased capillary permeability, bronchoconstriction, and spasmodic contraction of gastrointestinal smooth muscle. Loratadine does not cross the blood-brain barrier and does not cause central nervous system effects. A second-generation histamine H1 receptor antagonist used in the treatment of allergic rhinitis and urticaria. Unlike most classical antihistamines (HISTAMINE H1 ANTAGONISTS) it lacks central nervous system depressing effects such as drowsiness.",
+        "分子量": 382.9,
+        "分子式": "C22H23ClN2O2"
+    },
+    {
+        "DB编号": "DB00188",
+        "实验编号": 227,
+        "药品名称": "Bortezomib",
+        "上市时间": "2003-05-13",
+        "Description": "A pyrazine and boronic acid derivative that functions as a reversible PROTEASOME INHIBITOR. It is used as an ANTINEOPLASTIC AGENT in the treatment of MULTIPLE MYELOMA and MANTLE CELL LYMPHOMA. L-Phenylalaninamide substituted at the amide nitrogen by a 1-(dihydroxyboranyl)-3-methylbutyl group and at N(alpha) by a pyrazin-2-ylcarbonyl group. It is a dipeptidyl boronic acid that reversibly inhibits the 26S proteasome.",
+        "分子量": 384.2,
+        "分子式": "C19H25BN4O4"
+    },
+    {
+        "DB编号": "DB00710",
+        "实验编号": 1320,
+        "药品名称": "Ibandronate",
+        "上市时间": "2003-05-16",
+        "Description": "Not Found",
+        "分子量": 319.23,
+        "分子式": "C9H23NO7P2"
+    },
+    {
+        "DB编号": "DB00377",
+        "实验编号": 467,
+        "药品名称": "Palonosetron",
+        "上市时间": "2003-07-25",
+        "Description": "A carbazole derivative and a selective serotonin receptor antagonist with antiemetic activity. Palonosetron competitively blocks the action of serotonin at 5-hydroxytryptamine type 3 (5-HT3) receptors located on vagal afferents in the chemoreceptor trigger zone (CTZ), resulting in suppression of chemotherapy-induced nausea and vomiting. The CTZ is located in the area postrema on the dorsal surface of the medulla oblongata at the caudal end of the fourth ventricle and outside the blood-brain barrier (BBB). An organic heterotricyclic compound that is an antiemetic used (as its hydrochloride salt) in combination with netupitant (under the trade name Akynzeo) to treat nausea and vomiting in patients undergoing cancer chemotherapy. Isoquinoline and quinuclidine derivative that acts as a 5-HT3 RECEPTOR antagonist. It is used in the prevention of nausea and vomiting induced by cytotoxic chemotherapy, and for the prevention of post-operative nausea and vomiting.",
+        "分子量": 296.4,
+        "分子式": "C19H24N2O"
+    },
+    {
+        "DB编号": "DB00419",
+        "实验编号": 912,
+        "药品名称": "Miglustat",
+        "上市时间": "2003-07-31",
+        "Description": "A hydroxypiperidine that is deoxynojirimycin in which the amino hydrogen is replaced by a butyl group. A synthetic, N-alkylated imino analogue of D-glucose. Miglustat competitively and reversibly binds to and inhibits the activity of UDP-glucose ceramide glucosyltransferase, which catalyzes the initial step in the synthesis of glycosphingolipids (GSL). This leads to a decrease in the production of glycosphingolipid, which has important roles in various cellular processes. Miglustat can be used in substrate reduction therapy in diseases in which the enzyme glucocerebrosidase, that is responsible for the breakdown of GSL, is deficient.",
+        "分子量": 219.28,
+        "分子式": "C10H21NO4"
+    },
+    {
+        "DB编号": "DB01098",
+        "实验编号": 581,
+        "药品名称": "Rosuvastatin",
+        "上市时间": "2003-08-12",
+        "Description": "A dihydroxy monocarboxylic acid that is (6E)-7-{4-(4-fluorophenyl)-2-[methyl(methylsulfonyl)amino]-6-(propan-2-yl)pyrimidin-5-yl} hept-6-enoic acid carrying two hydroxy substituents at positions 3 and 5 (the 3R,5S-diastereomer). A statin with antilipidemic and potential antineoplastic activities. Rosuvastatin selectively and competitively binds to and inhibits hepatic hydroxymethyl-glutaryl coenzyme A (HMG-CoA) reductase, the enzyme which catalyzes the conversion of HMG-CoA to mevalonate, a precursor of cholesterol. This leads to a decrease in hepatic cholesterol levels and increase in uptake of LDL cholesterol. In addition, rosuvastatin, like other statins, exhibits pro-apoptotic, growth inhibitory, and pro-differentiation activities in a variety of tumor cell types; these antineoplastic activities may be due, in part, to inhibition of the isoprenylation of Ras and Rho GTPases and related signaling cascades.",
+        "分子量": 481.5,
+        "分子式": "C22H28FN3O6S"
+    },
+    {
+        "DB编号": "DB00862",
+        "实验编号": 154,
+        "药品名称": "Vardenafil",
+        "上市时间": "2003-08-19",
+        "Description": "A benzenesulfonamide derivative and phosphodiesterase type 5 (PDE5) inhibitor with vasodilatory activity. Vardenafil selectively inhibits PDE5, thus inhibiting the degradation of cyclic guanosine monophosphate (cGMP) found in the smooth muscle of the corpus cavernosa and corpus spongiosum of the penis. The inhibition of cGMP degradation results in prolonged muscle relaxation, vasodilation, and blood engorgement of the corpus cavernosa, prolonging penile erection. The sulfonamide resulting from formal condensation of the sulfo group of 4-ethoxy-3-(5-methyl-7-propylimidazo[5,1-f][1,2,4]triazin-4(1H)-one-2-yl)benzenesulfonic acid and the secondary amino group of 4-ethylpiperazine.",
+        "分子量": 488.6,
+        "分子式": "C23H32N6O4S"
+    },
+    {
+        "DB编号": "DB01043",
+        "实验编号": 1120,
+        "药品名称": "Memantine",
+        "上市时间": "2003-10-16",
+        "Description": "A primary aliphatic amine that is the 3,5-dimethyl derivative of 1-aminoadamantane. A low to moderate affinity uncompetitive (open-channel); NMDA receptor antagonist which binds preferentially to the NMDA receptor-operated cation channels. AMANTADINE derivative that has some dopaminergic effects. It has been proposed as an antiparkinson agent.",
+        "分子量": 179.3,
+        "分子式": "C12H21N"
+    },
+    {
+        "DB编号": "DB00820",
+        "实验编号": 1040,
+        "药品名称": "Tadalafil",
+        "上市时间": "2003-11-21",
+        "Description": "A carboline derivative and PHOSPHODIESTERASE 5 INHIBITOR that is used primarily to treat ERECTILE DYSFUNCTION; BENIGN PROSTATIC HYPERPLASIA and PRIMARY PULMONARY HYPERTENSION. A carboline-based compound with vasodilatory activity. Tadalafil selectively inhibits the cyclic guanosine monophosphate (cGMP)-specific type 5 phosphodiesterase- (PDE-5)-mediated degradation of cGMP, which is found in the smooth muscle of the corpus cavernosa and corpus spongiosum of the penis. Inhibition of cGMP degradation by tadalafil results in prolonged muscle relaxation, vasodilation, and blood engorgement of the corpus cavernosa, and, so, prolonged penile erection. A pyrazinopyridoindole that is 2,3,6,7,12,12a-hexahydropyrazino[1',2':1,6]pyrido[3,4-b]indole-1,4-dione substituted at position 2 by a methyl group and at position 6 by a 1,3-benzodioxol-5-yl group (the 6R,12aR-diastereomer). A phosphodiesterase V inhibitor inhibitor, currently marketed in pill form for treating erectile dysfunction under the name Cialis; and under the name Adcirca for the treatment of pulmonary arterial hypertension.",
+        "分子量": 389.4,
+        "分子式": "C22H19N3O4"
+    },
+    {
+        "DB编号": "DB01153",
+        "实验编号": 1158,
+        "药品名称": "Sertaconazole",
+        "上市时间": "2003-12-10",
+        "Description": "A racemate comprising equimolar amounts of (R)- and (S)-sertaconazole. A broad spectrum antifungal with added antipruritic and anti-inflammatory activity used (as its nitrate salt) for treatment of various skin infections. A synthetic imidazole derivative, containing a benzothiophene ring, with antifungal, antibacterial, anti-inflammatory and anti-pruritic activity. Besides its ability to inhibit the synthesis of ergosterol, the benzothiophene ring of sertaconazole is able to insert into the fungal cell wall instead of tryptophan. This increases the permeability of the cell wall. In addition, sertaconazole suppresses the release of cytokines.",
+        "分子量": 437.8,
+        "分子式": "C20H15Cl3N2OS"
+    },
+    {
+        "DB编号": "DB01409",
+        "实验编号": 26,
+        "药品名称": "Tiotropium",
+        "上市时间": "2004-01-30",
+        "Description": "A quaternary ammonium ion obtained by methylation of the tertiary amino group of (1alpha,2beta,4beta,5alpha,7beta)-7-[(hydroxydi-2-thienylacetyl)oxy]-9-methyl-3-oxa-9-azoniatricyclo[3.3.1.0(2,4)]nonane. Used (in the form of the bromide hydrate) for maintenance treatment of airflow obstruction in patients with chronic obstructive pulmonary disease.",
+        "分子量": 472.4,
+        "分子式": "C19H22BrNO4S2"
+    },
+    {
+        "DB编号": "DB00714",
+        "实验编号": 1304,
+        "药品名称": "Apomorphine",
+        "上市时间": "2004-04-20",
+        "Description": "A derivative of morphine that is a dopamine D2 agonist. It is a powerful emetic and has been used for that effect in acute poisoning. It has also been used in the diagnosis and treatment of parkinsonism, but its adverse effects limit its use.",
+        "分子量": 285.34,
+        "分子式": "C17H19NO3"
+    },
+    {
+        "DB编号": "DB00911",
+        "实验编号": 425,
+        "药品名称": "Tinidazole",
+        "上市时间": "2004-05-17",
+        "Description": "1H-imidazole substituted at C-1 by a (2-ethylsulfonyl)ethyl group, at C-2 by a methyl group and at C-5 by a nitro group.  It is used as an antiprotozoal, antibacterial agent. A 5-nitroimidazole derivative with antiprotozoal property. Although the mechanism of action has not been fully elucidated, it has been suggested that tinidazole is metabolized and yields nitrite anions and metronidazole. Metronidazole's nitro group in turn is reduced via the parasite ferredoxin, thereby generating a series of free nitro radicals including nitro anions. Toxicity is achieved via depletion of sulfhydryl groups and DNA strand breaks with multiple hits having an additive effect and ultimately leading to cell death. A nitroimidazole alkylating agent that is used as an antitrichomonal agent against TRICHOMONAS VAGINALIS; ENTAMOEBA HISTOLYTICA; and GIARDIA LAMBLIA infections. It also acts as an antibacterial agent for the treatment of BACTERIAL VAGINOSIS and anaerobic bacterial infections.",
+        "分子量": 247.27,
+        "分子式": "C8H13N3O4S"
+    },
+    {
+        "DB编号": "DB01220",
+        "实验编号": 218,
+        "药品名称": "Rifaximin",
+        "上市时间": "2004-05-25",
+        "Description": "A semisynthetic member of the class of rifamycins and non-systemic gastrointestinal site-specific broad spectrum antibiotic. Used in the treatment of traveller's diarrhoea, hepatic encephalopathy and irritable bowel syndrome. A synthetic rifamycin derivative and anti-bacterial agent that is used for the treatment of GASTROENTERITIS caused by ESCHERICHIA COLI INFECTIONS. It may also be used in the treatment of HEPATIC ENCEPHALOPATHY. An orally administered, semi-synthetic, nonsystemic antibiotic derived from rifamycin SV with antibacterial activity. Rifaximin binds to the beta-subunit of bacterial DNA-dependent RNA polymerase, inhibiting bacterial RNA synthesis and bacterial cell growth. As rifaximin is not well absorbed, its antibacterial activity is largely localized to the gastrointestinal tract.",
+        "分子量": 785.9,
+        "分子式": "C43H51N3O11"
+    },
+    {
+        "DB编号": "DB00209",
+        "实验编号": 57,
+        "药品名称": "Trospium",
+        "上市时间": "2004-05-28",
+        "Description": "A carboxylic ester resulting from the formal condensation of the carboxy group of hydroxy(diphenyl)acetic acid with the hydroxy group of (1S,3R,5R)-3-hydroxy-8lambda(5)-azaspiro[bicyclo[3.2.1]octane-8,1'-pyrrolidin]-8-ylium. Its chloride salt is used to treat overactive bladder.",
+        "分子量": 392.5,
+        "分子式": "C25H30NO3+"
+    },
+    {
+        "DB编号": "DB00476",
+        "实验编号": 828,
+        "药品名称": "Duloxetine",
+        "上市时间": "2004-08-03",
+        "Description": "Description Not Available",
+        "分子量": 144.17,
+        "分子式": "C10H8O"
+    },
+    {
+        "DB编号": "DB06792",
+        "实验编号": 1683,
+        "药品名称": "Lanthanum carbonate",
+        "上市时间": "2004-10-26",
+        "Description": "The carbonate salt of lanthanum, a silvery white metallic element of the lanthanoids family, with phosphate binding property. Lanthanum carbonate dissociates in gastric acid to release lanthanum ions, which then binds dietary phosphate. This agent inhibits the absorption of phosphate by forming highly insoluble lanthanum-phosphate complexes that reduce concentrations of serum phosphate and calcium phosphate.",
+        "分子量": 457.84,
+        "分子式": "C3La2O9"
+    },
+    {
+        "DB编号": "DB00530",
+        "实验编号": 600,
+        "药品名称": "Erlotinib",
+        "上市时间": "2004-11-18",
+        "Description": "A quinazoline compound having a (3-ethynylphenyl)amino group at the 4-position and two 2-methoxyethoxy groups at the 6- and 7-positions. A quinazoline derivative with antineoplastic properties.  Competing with adenosine triphosphate, erlotinib reversibly binds to the intracellular catalytic domain of epidermal growth factor receptor (EGFR) tyrosine kinase, thereby reversibly inhibiting EGFR phosphorylation and blocking the signal transduction events and tumorigenic effects associated with EGFR activation.",
+        "分子量": 393.4,
+        "分子式": "C22H23N3O4"
+    },
+    {
+        "DB编号": "DB01591",
+        "实验编号": 46,
+        "药品名称": "Solifenacin",
+        "上市时间": "2004-11-19",
+        "Description": "Description Not Available",
+        "分子量": 362.5,
+        "分子式": "C23H26N2O2"
+    },
+    {
+        "DB编号": "DB00402",
+        "实验编号": 397,
+        "药品名称": "Eszopiclone",
+        "上市时间": "2004-12-15",
+        "Description": "A nonbenzodiazepine, cyclopyrrolone and active stereoisomer of zopiclone with hypnotic and sedative activity and without significant anxiolytic activity. Although the exact mechanism of action remains to be fully elucidated, eszopiclone is able to bind to and activate the omega-1 subtype of the alpha subunit of the gamma-aminobutyric acid-benzodiazepine GABA receptor complex (GABA-A), a chloride ionophore complex in the central nervous system (CNS). This leads to the opening of chloride channels, causing hyperpolarization, inhibition of neuronal firing, and enhancement of the inhibitory effect of GABA. This eventually leads to a hypnotic effect and allows for an induction of sleep. A pyridine, pyrazine, and piperazine derivative that is used as a HYPNOTIC AND SEDATIVE in the treatment of INSOMNIA. The (5S)- (active) enantiomer of zopiclone. Unlike almost all other hypnotic sedatives, which are approved only for the relief of short-term (6-8 weeks) insomnia, eszopiclone is approved by the U.S. Food and Drug Administration for long-term use.",
+        "分子量": 388.8,
+        "分子式": "C17H17ClN6O3"
+    },
+    {
+        "DB编号": "DB01198",
+        "实验编号": 542,
+        "药品名称": "Zopiclone",
+        "上市时间": "2004-12-15",
+        "Description": "Description Not Available",
+        "分子量": 388.8,
+        "分子式": "C17H17ClN6O3"
+    },
+    {
+        "DB编号": "DB00496",
+        "实验编号": 32,
+        "药品名称": "Darifenacin",
+        "上市时间": "2004-12-22",
+        "Description": "2-[(3S)-1-Ethylpyrrolidin-3-yl]-2,2-diphenylacetamide in which one of the hydrogens at the 2-position of the ethyl group is substituted by a  2,3-dihydro-1-benzofuran-5-yl group. It is a selective antagonist for the M3 muscarinic acetylcholine receptor, which is primarily responsible for bladder muscle contractions, and is used as the hydrobromide salt in the management of urinary incontinence.",
+        "分子量": 426.5,
+        "分子式": "C28H30N2O2"
+    },
+    {
+        "DB编号": "DB00631",
+        "实验编号": 1172,
+        "药品名称": "Clofarabine",
+        "上市时间": "2004-12-28",
+        "Description": "A purine nucleoside analogue consisting of a 6-amino-2-chloropurin-9-yl group attached to the 1beta position of 2'-deoxy-2'-fluoro-D-arabinofuranose. It is metabolized intracellularly to the active 5'-triphosphate metabolite, which inhibits DNA synthesisis and so stops the growth of cancer cells. Clofarabine is used as an antimetabolite antineoplastic agent in the treatment of relapsed or refractory acute lymphoblastic leukaemia. A second generation purine nucleoside analog with antineoplastic activity. Clofarabine is phosphorylated intracellularly to the cytotoxic active 5'-triphosphate metabolite, which inhibits the enzymatic activities of ribonucleotide reductase and DNA polymerase, resulting in inhibition of DNA repair and synthesis of DNA and RNA. This nucleoside analog also disrupts mitochondrial function and membrane integrity, resulting in the release of pre-apoptotic factors, including cytochrome C and apoptotic-inducing factors, which activate apoptosis. An adenine arabinonucleoside derivative that acts as an antineoplastic antimetabolite. It is used in the treatment of ACUTE LYMPHOID LEUKEMIA in pediatric patients who have relapsed.",
+        "分子量": 303.68,
+        "分子式": "C10H11ClFN5O3"
+    },
+    {
+        "DB编号": "DB00963",
+        "实验编号": 753,
+        "药品名称": "Bromfenac",
+        "上市时间": "2005-03-24",
+        "Description": "A nonsteroidal anti-inflammatory drug (NSAID) with analgesic and anti-inflammatory activities. Upon ophthalmic administration, bromfenac binds to and inhibits the activity of cyclooxygenase II (COX II), an enzyme which converts arachidonic acid to cyclic endoperoxides, precursors of prostaglandins (PG). By inhibiting PG formation, bromfenac is able to inhibit PG-induced inflammation, thereby preventing vasodilation, leukocytosis, disruption of the blood-aqueous humor barrier, an increase in vascular permeability and an increase in intraocular pressure (IOP). Amfenac in which the the hydrogen at the 4 position of the benzoyl group is substituted by bromine. It is used for the management of ocular pain and treatment of postoperative inflammation in patients who have undergone cataract extraction. It was withdrawn from the US market in 1998, following concerns over off-label abuse and hepatic failure.",
+        "分子量": 334.16,
+        "分子式": "C15H12BrNO3"
+    },
+    {
+        "DB编号": "DB01165",
+        "实验编号": 1210,
+        "药品名称": "Ofloxacin",
+        "上市时间": "2005-06-15",
+        "Description": "A fluoroquinolone antibacterial antibiotic. Ofloxacin binds to and inhibits bacterial topoisomerase II (DNA gyrase) and topoisomerase IV, enzymes involved in DNA replication and repair, resulting in cell death in sensitive bacterial species. (NCI04) A synthetic fluoroquinolone antibacterial agent that inhibits the supercoiling activity of bacterial DNA GYRASE, halting DNA REPLICATION. An oxazinoquinolone carrying carboxy, fluoro, methyl and 4-methylpiperazino substituents. A synthetic fluoroquinolone antibacterial agent, it inhibits the supercoiling activity of bacterial DNA gyrase, halting DNA replication.",
+        "分子量": 361.4,
+        "分子式": "C18H20FN3O4"
+    },
+    {
+        "DB编号": "DB00560",
+        "实验编号": 1645,
+        "药品名称": "Tigecycline",
+        "上市时间": "2005-06-15",
+        "Description": "A broad-spectrum glycylcycline antibiotic derived from tetracycline. Tigecycline binds to the 30S ribosomal subunit, thereby interfering with the binding of aminoacyl-tRNA to the mRNA-ribosome complex. This prevents the incorporation of amino acid residues into the elongating peptide chain, inhibiting protein synthesis and eventually bacterial cell growth. A tetracycline derivative that acts as a protein synthesis inhibitor. It is used as an antibacterial agent for the systemic treatment of complicated skin and intra-abdominal infections. It is also used for the treatment of community-acquired pneumonia. An ammonium ion that is the conjugate acid of tigecycline; major species at pH 7.3. Tetracycline in which the hydroxy group at position 5 and the methyl group at position 6 are replaced by hydrogen, and with a dimethylamino substituent and an (N-tert-butylglycyl)amino substituent at positions 7 and 9, respectively. A glycylcycline antibiotic, it has activity against a broad range of Gram-positive and Gram-negative bacteria, including tetracycline-resistant organisms. It is used for the intravenous treatment of complicated skin and skin structure infections caused by susceptible organisms.",
+        "分子量": 457.5,
+        "分子式": "C23H27N3O7"
+    },
+    {
+        "DB编号": "DB09085",
+        "实验编号": 952,
+        "药品名称": "Tetracaine",
+        "上市时间": "2005-06-23",
+        "Description": "A benzoate ester in which 4-N-butylbenzoic acid and 2-(dimethylamino)ethanol have combined to form the ester bond; a local ester anaesthetic (ester caine) used for surface and spinal anaesthesia. A benzoate ester with anesthetic properties. Upon administration, tetracaine reversibly binds voltage-gated sodium ion channels in neuronal cell membranes and inhibits sodium influx. This prevents the initiation and conduction of nerve impulses, and stabilizes neuronal membranes. This results in a loss of sensation, and thereby provides analgesia and anesthesia. A potent local anesthetic of the ester type used for surface and spinal anesthesia.",
+        "分子量": 137.14,
+        "分子式": "C7H7NO2"
+    },
+    {
+        "DB编号": "DB00980",
+        "实验编号": 250,
+        "药品名称": "Ramelteon",
+        "上市时间": "2005-07-22",
+        "Description": "A synthetic melatonin analogue with hypnotic and circadian rhythm-modulating activities. Ramelteon binds to and activates melatonin receptors 1 and 2 in the suprachiasmatic nucleus (SCN) of the brain, thereby promoting the onset of sleep. Unlike the nonbenzodiazepine sedative hypnotics zolpidem and zaleplon, this agent does not activate GABA receptors and, so, produces no GABA receptor-mediated anxiolytic, myorelaxant, and amnesic effects.",
+        "分子量": 259.339,
+        "分子式": "C16H21NO2"
+    },
+    {
+        "DB编号": "DB01609",
+        "实验编号": 1457,
+        "药品名称": "Deferasirox",
+        "上市时间": "2005-11-02",
+        "Description": "A member of the class of triazoles, deferasirox is 1,2,4-triazole substituted by a 4-carboxyphenyl group at position 1 and by 2-hydroxyphenyl groups at positions 3 and 5. An orally active iron chelator, it is used to manage chronic iron overload in patients receiving long-term blood transfusions. A synthetic, orally bioavailable, achiral, tridentate triazole derived from salicylic acid with iron-chelating activity. Deferasirox chelates iron at a 2:1 (ligand:iron) ratio. Because of its oral availability and long plasma half-life, this agent may be superior to desferrioxamine (desferal, DFO), which is orally inactive and has a short plasma half-life. A triazole and benzoate derivative that acts as a selective iron chelator. It is used in the management of chronic IRON OVERLOAD due to blood transfusion or non-transfusion dependent THALASSEMIA.",
+        "分子量": 373.4,
+        "分子式": "C21H15N3O4"
+    },
+    {
+        "DB编号": "DB00398",
+        "实验编号": 666,
+        "药品名称": "Sorafenib",
+        "上市时间": "2005-12-20",
+        "Description": "A member of the class of phenylureas that is urea in which one of the nitrogens is substituted by a 4-chloro-3-trifluorophenyl group while the other is substituted by a phenyl group which, in turn, is substituted at the para position by a [2-(methylcarbamoyl)pyridin-4-yl]oxy group. A niacinamide and phenylurea derivative that inhibits multiple intracellular and cell surface kinases thought to be involved in ANGIOGENESIS, including RAF KINASES and VEGF RECEPTORS. It is used in the treatment of advanced RENAL CELL CARCINOMA and HEPATOCELLULAR CARCINOMA, and for treatment of THYROID CARCINOMA refractory to radioactive iodine therapy. A synthetic compound targeting growth signaling and angiogenesis. Sorafenib blocks the enzyme RAF kinase, a critical component of the RAF/MEK/ERK signaling pathway that controls cell division and proliferation; in addition, sorafenib inhibits the VEGFR-2/PDGFR-beta signaling cascade, thereby blocking tumor angiogenesis. The tosylate salt of sorafenib, a synthetic compound targeting growth signaling and angiogenesis. Sorafenib blocks the enzyme RAF kinase, a critical component of the RAF/MEK/ERK signaling pathway that controls cell division and proliferation; in addition, sorafenib inhibits the VEGFR-2/PDGFR-beta signaling cascade, thereby blocking tumor angiogenesis.",
+        "分子量": 464.8,
+        "分子式": "C21H16ClF3N4O3"
+    },
+    {
+        "DB编号": "DB01268",
+        "实验编号": 1018,
+        "药品名称": "Sunitinib",
+        "上市时间": "2006-01-26",
+        "Description": "An indole and pyrrole derivative that inhibits VEGFR-2 and PDGFR BETA RECEPTOR TYROSINE KINASES. It is used as an antineoplastic agent for the treatment of GASTROINTESTINAL STROMAL TUMORS, and for treatment of advanced or metastatic RENAL CELL CARCINOMA. An indolinone derivative and tyrosine kinase inhibitor with potential antineoplastic activity. Sunitinib blocks the tyrosine kinase activities of vascular endothelial growth factor receptor 2 (VEGFR2), platelet-derived growth factor receptor b (PDGFRb), and c-kit, thereby inhibiting angiogenesis and cell proliferation.  This agent also inhibits the phosphorylation of Fms-related tyrosine kinase 3 (FLT3), another receptor tyrosine kinase expressed by some leukemic cells. The orally bioavailable malate salt of an indolinone-based tyrosine kinase inhibitor with potential antineoplastic activity.  Sunitinib blocks the tyrosine kinase activities of vascular endothelial growth factor receptor 2 (VEGFR2), platelet-derived growth factor receptor b (PDGFRb), and c-kit, thereby inhibiting angiogenesis and cell proliferation.  This agent also inhibits the phosphorylation of Fms-related tyrosine kinase 3 (FLT3), another receptor tyrosine kinase expressed by some leukemic cells.",
+        "分子量": 398.5,
+        "分子式": "C22H27FN4O2"
+    },
+    {
+        "DB编号": "DB01367",
+        "实验编号": 56,
+        "药品名称": "Rasagiline",
+        "上市时间": "2006-05-16",
+        "Description": "Not Found",
+        "分子量": 171.24,
+        "分子式": "C12H13N"
+    },
+    {
+        "DB编号": "DB01263",
+        "实验编号": 479,
+        "药品名称": "Posaconazole",
+        "上市时间": "2006-09-15",
+        "Description": "A broad-spectrum, second generation, triazole compound with antifungal activity. Posaconazole strongly inhibits 14-alpha demethylase, a cytochrome P450-dependent enzyme. Inhibition of 14-alpha-demethylase prevents the conversion of lanosterol to ergosterol, an important component of the fungal cell wall. Inhibition of ergosterol synthesis changes the fungal cell membrane composition and integrity, alters membrane permeability and eventually leads to fungal cell lysis. Compared to other azole antifungals, posaconazole is a significantly more potent inhibitor of sterol 14-alpha demethylase. An N-arylpiperazine that consists of piperazine carrying two 4-substituted phenyl groups at positions 1 and 4. A triazole antifungal drug.",
+        "分子量": 700.8,
+        "分子式": "C37H42F2N8O4"
+    },
+    {
+        "DB编号": "DB09536",
+        "实验编号": 3,
+        "药品名称": "Titanium dioxide",
+        "上市时间": "2006-10-05",
+        "Description": "A titanium oxide with the formula TiO2.  A naturally occurring oxide sourced from ilmenite, rutile and anatase, it has a wide range of applications.",
+        "分子量": 79.866,
+        "分子式": "O2Ti"
+    },
+    {
+        "DB编号": "DB01274",
+        "实验编号": 420,
+        "药品名称": "Arformoterol",
+        "上市时间": "2006-10-06",
+        "Description": "A long-acting beta-2 adrenergic agonist and isomer of formoterol with bronchodilator activity. Arformoterol selectively binds to and activates beta-2 adrenergic receptors in bronchiolar smooth muscle, thereby causing stimulation of adenyl cyclase, the enzyme that catalyzes the conversion of adenosine triphosphate (ATP) to cyclic-3',5'-adenosine monophosphate (cAMP). Increased intracellular cAMP levels cause relaxation of bronchial smooth muscle and lead to a reduced release of inflammatory mediators from mast cells. This may eventually lead to an improvement of airway function. An N-[2-hydroxy-5-(1-hydroxy-2-{[1-(4-methoxyphenyl)propan-2-yl]amino}ethyl)phenyl]formamide in which both of the stereocentres have R configuration. The active enantiomer of formoterol, it is administered by inhalation (generally as the tartrate salt) as a direct-acting sympathomimetic and  bronchodilator for the treatment of chronic obstructive pulmonary disease (any progressive respiratory disease that makes it harder to breathe over time, such as chronic bronchitis and emphysema).",
+        "分子量": 344.4,
+        "分子式": "C19H24N2O4"
+    },
+    {
+        "DB编号": "DB01261",
+        "实验编号": 481,
+        "药品名称": "Sitagliptin",
+        "上市时间": "2006-10-16",
+        "Description": "A  triazolopyrazine that exhibits  hypoglycemic activity. An orally available, competitive, beta-amino acid-derived inhibitor of dipeptidyl peptidase 4 (DDP-4) with hypoglycemic activity. Sitagliptin may cause an increased risk in the development of pancreatitis.",
+        "分子量": 407.31,
+        "分子式": "C16H15F6N5O"
+    },
+    {
+        "DB编号": "DB00920",
+        "实验编号": 1640,
+        "药品名称": "Ketotifen",
+        "上市时间": "2006-10-19",
+        "Description": "A cycloheptathiophene blocker of histamine H1 receptors and release of inflammatory mediators. It has been proposed for the treatment of asthma, rhinitis, skin allergies, and anaphylaxis. A cycloheptathiophene derivative with anti-allergic activity. Ketotifen selectively blocks histamine (H1) receptors and prevents the typical symptoms caused by histamine release. This agent also interferes with the release of inflammatory mediators from mast cells involved in hypersensitivity reactions, thereby decreasing chemotaxis and activation of eosinophils. An organic heterotricyclic compound that is 4,9-dihydro-10H-benzo[4,5]cyclohepta[1,2-b]thiophen-10-one which is substituted at position 4 by a 1-methylpiperidin-4-ylidene group. A blocker of histamine H1 receptors with a stabilising action on mast cells, it is used (usually as its hydrogen fumarate salt) for the treatment of asthma, where it may take several weeks to exert its full effect.",
+        "分子量": 309.4,
+        "分子式": "C19H19NOS"
+    },
+    {
+        "DB编号": "DB04398",
+        "实验编号": 1663,
+        "药品名称": "Lactic acid",
+        "上市时间": "2006-10-25",
+        "Description": "A 2-hydroxy monocarboxylic acid that is propanoic acid in which one of the alpha-hydrogens is replaced by a hydroxy group. A normal intermediate in the fermentation (oxidation, metabolism) of sugar. The concentrated form is used internally to prevent gastrointestinal fermentation. (From Stedman, 26th ed) A racemate comprising equimolar amounts of (R)- and (S)-lactic acid. An optically active form of lactic acid having (R)-configuration.",
+        "分子量": 90.08,
+        "分子式": "C3H6O3"
+    },
+    {
+        "DB编号": "DB01255",
+        "实验编号": 1337,
+        "药品名称": "Lisdexamfetamine",
+        "上市时间": "2007-02-23",
+        "Description": "A prodrug of the d-isomer of amphetamine, a non-catecholamine sympathomimetic amine with central nervous system (CNS) stimulating activity. Upon administration, lisdexamphetamine is converted to dextroamphetamine through cleavage of the lysine group. Dextroamphetamine acts by facilitating the release of catecholamines, particularly noradrenaline and dopamine, from its storage sites in nerve terminals in the CNS, and inhibits their uptake within the mesocorticolimbic system, a major component of the brain reward system, resulting in measurable behavioral changes such as euphoria, mental alertness and excitement and appetite suppression. As a CNS stimulant, this agent may increase blood pressure.",
+        "分子量": 263.38,
+        "分子式": "C15H25N3O"
+    },
+    {
+        "DB编号": "DB01256",
+        "实验编号": 511,
+        "药品名称": "Retapamulin",
+        "上市时间": "2007-04-12",
+        "Description": "Description Not Available",
+        "分子量": 517.799,
+        "分子式": "C30H47NO4S"
+    },
+    {
+        "DB编号": "DB05271",
+        "实验编号": 471,
+        "药品名称": "Rotigotine",
+        "上市时间": "2007-05-09",
+        "Description": "Description Not Available",
+        "分子量": 315.5,
+        "分子式": "C19H25NOS"
+    },
+    {
+        "DB编号": "DB06282",
+        "实验编号": 204,
+        "药品名称": "Levocetirizine",
+        "上市时间": "2007-05-25",
+        "Description": "A third generation, non-sedating, selective histamine H1 receptor antagonist, with antihistamine, anti-inflammatory and potential anti-angiogenic activities. Levocetirizine competes with endogenous histamine for binding at peripheral H1-receptor sites on the effector cell surface. This prevents the negative symptoms associated with histamine release and an allergic reaction. In addition, as histamine plays an important role in angiogenesis during an allergic inflammatory reaction, blocking the action of histamine may modulate the expression of proangiogenic factors and thus may prevent angiogenesis. As a third-generation histamine H1 receptor antagonist, levocetirizine has fewer side effects than most second-generation antihistamines.",
+        "分子量": 388.9,
+        "分子式": "C21H25ClN2O3"
+    },
+    {
+        "DB编号": "DB06403",
+        "实验编号": 168,
+        "药品名称": "Ambrisentan",
+        "上市时间": "2007-06-15",
+        "Description": "An orally bioavailable, selective antagonist of the endothelin type-A (ETA) receptor that may be used for the treatment of pulmonary arterial hypertension (PAH). Upon administration, ambrisentan targets and binds to ETA receptor, which prevents the binding of endothelin-1 (ET-1) to the ETA receptor and ET-1/ETA-mediated vasoconstriction and cell proliferation. This may lead to vasodilation. ET-1 concentrations are increased in plasma as well as lung tissue in PAH, and ET-1 may play a key role in the pathogenesis of PAH.",
+        "分子量": 378.4,
+        "分子式": "C22H22N2O4"
+    },
+    {
+        "DB编号": "DB06413",
+        "实验编号": 1111,
+        "药品名称": "Armodafinil",
+        "上市时间": "2007-06-15",
+        "Description": "A 2-[(diphenylmethyl)sulfinyl]acetamide that has R configuration at the sulfur atom. Like its racemate, modafinil, it is used for the treatment of sleeping disorders such as narcolepsy, obstructive sleep apnoea, and shift-work sleep disorder. Peak concentration in the blood later occurs later following administration than with modafinil, so it is thought that armodafinil may be more effective than modafinil in treating people with excessive daytime sleepiness. The R-enantiomer of the racemic synthetic agent modafinil with central nervous system (CNS) stimulant and wakefulness-promoting activities. Although the exact mechanism of action has yet to be fully elucidated, armodafinil appears to inhibit the reuptake of dopamine by binding to the dopamine-reuptake pump, which leads to an increase in extracellular dopamine levels in some brain regions. This agent does not bind to or inhibit several receptors and enzymes that may be involved in sleep/wake regulation and is not a direct- or indirect-acting dopamine receptor agonist. Armodafinil has a longer half-life than modafinil.",
+        "分子量": 273.4,
+        "分子式": "C15H15NO2S"
+    },
+    {
+        "DB编号": "DB06791",
+        "实验编号": 1024,
+        "药品名称": "Lanreotide",
+        "上市时间": "2007-08-30",
+        "Description": "A synthetic cyclic octapeptide analogue of somatostatin. Lanreotide binds to somatostatin receptors (SSTR), specifically SSTR-2 and also to SSTR-5 with a lesser affinity. However, compare with octreotide, this agent is less potent in inhibiting the release of growth hormone from the pituitary gland. Furthermore, lanreotide has an acute effect on decreasing circulating total and free insulin-like growth factor 1 (IGF-I).  This agent is usually given as a prolonged-release microparticle or Autogel formulation for the treatment of acromegaly and to relieve the symptoms of neuroendocrine tumors.",
+        "分子量": 1096.3,
+        "分子式": "C54H69N11O10S2"
+    },
+    {
+        "DB编号": "DB06817",
+        "实验编号": 1435,
+        "药品名称": "Raltegravir",
+        "上市时间": "2007-10-12",
+        "Description": "A pyrimidone that is pyrimidin-4(3H)-one in which the hydrogens at positions 2, 3, 5 and 6 are replaced by 2-[(5-methyl-1,3,4-oxadiazole-2-carbonyl)amino]propan-2-yl, methyl, hydroxy, and N-[(4-fluorophenyl)methyl]aminoacyl groups, respectively. It is an antiretroviral drug used for treatment of HIV infection. A small molecule with activity against human immunodeficiency virus (HIV). Raltegravir is an integrase inhibitor that blocks the integration of the viral genome into the host DNA, a critical step in the pathogenesis of HIV.",
+        "分子量": 444.4,
+        "分子式": "C20H21FN6O5"
+    },
+    {
+        "DB编号": "DB06211",
+        "实验编号": 1678,
+        "药品名称": "Doripenem",
+        "上市时间": "2007-10-12",
+        "Description": "A broad-spectrum, carbapenem antibiotic with bactericidal and beta-lactamase resistant activities. Doripenem binds to penicillin binding proteins (PBPs) located on the bacterial cell wall, particularly PBPs 2 and 3, thereby inhibiting the final transpeptidation step in the synthesis of peptidoglycan, an essential component of the bacterial cell wall. Inhibition results in a weakening and eventually lysis of the bacterial cell wall. This agent is two- to 16-fold more potent than imipenem and comparable to ertapenem and meropenem. A carbapenem derivative antibacterial agent that is more stable to renal dehydropeptidase I than IMIPENEM, but does not need to be given with an enzyme inhibitor such as CILASTATIN. It is used in the treatment of infections such as HOSPITAL-ACQUIRED PNEUMONIA, and complicated intra-abdominal or urinary-tract infections, including PYELONEPHRITIS.",
+        "分子量": 420.5,
+        "分子式": "C15H24N4O6S2"
+    },
+    {
+        "DB编号": "DB09543",
+        "实验编号": 778,
+        "药品名称": "Methyl salicylate",
+        "上市时间": "2008-02-20",
+        "Description": "A benzoate ester that is the methyl ester of salicylic acid.",
+        "分子量": 152.15,
+        "分子式": "C8H8O3"
+    },
+    {
+        "DB编号": "DB06800",
+        "实验编号": 1500,
+        "药品名称": "Methylnaltrexone",
+        "上市时间": "2008-04-24",
+        "Description": "A methyl derivative of noroxymorphone with selective, opioid-receptor antagonistic activity. Methylnaltrexone displaces opioids from peripheral opioid receptors in the gastrointestinal tract, the bladder, and the skin, resulting in decreases in opioid-related constipation, urinary retention, and pruritis, respectively. Methylnaltrexone does not cross the blood-brain barrier and does not affect the centrally-mediated analgesic effect of opioids.",
+        "分子量": 436.3,
+        "分子式": "C21H26BrNO4"
+    },
+    {
+        "DB编号": "DB06274",
+        "实验编号": 1458,
+        "药品名称": "Alvimopan",
+        "上市时间": "2008-05-20",
+        "Description": "Description Not Available",
+        "分子量": 424.5,
+        "分子式": "C25H32N2O4"
+    },
+    {
+        "DB编号": "DB04920",
+        "实验编号": 662,
+        "药品名称": "Clevidipine",
+        "上市时间": "2008-08-01",
+        "Description": "Description Not Available",
+        "分子量": 456.3,
+        "分子式": "C21H23Cl2NO6"
+    },
+    {
+        "DB编号": "DB06702",
+        "实验编号": 35,
+        "药品名称": "Fesoterodine",
+        "上市时间": "2008-10-31",
+        "Description": "A competitive muscarinic receptor antagonist with muscle relaxant and urinary antispasmodic properties. Fesoterodine is rapidly hydrolyzed in vivo into its active metabolite 5-hydroxy methyl tolterodine, which binds and inhibits muscarinic receptors on the bladder detrusor muscle, thereby preventing bladder contractions or spasms caused by acetylcholine. This results in the relaxation of bladder smooth muscle and greater bladder capacity, in addition to a reduction in involuntary muscle contractions and involuntary loss of urine. The active metabolite does not interact with alpha-adrenergic, serotonergic, histaminergic and excitatory amino acid receptors and is eliminated via renal excretion.",
+        "分子量": 411.6,
+        "分子式": "C26H37NO3"
+    },
+    {
+        "DB编号": "DB06201",
+        "实验编号": 1439,
+        "药品名称": "Rufinamide",
+        "上市时间": "2008-11-14",
+        "Description": "Description Not Available",
+        "分子量": 238.19,
+        "分子式": "C10H8F2N4O"
+    },
+    {
+        "DB编号": "DB06210",
+        "实验编号": 601,
+        "药品名称": "Eltrombopag",
+        "上市时间": "2008-11-20",
+        "Description": "A hydrazine in which each nitrogen atom is substituted, one by a 3'-carboxy-2-hydroxy[1,1'-biphenyl]-3-yl group and the other by a 1-(3,4-dimethylphenyl)-3-methyl-5-oxo-1,5-dihydro-4H-pyrazol-4-ylidene group.  A small molecule agonist of the c-mpl (TpoR) receptor (the physiological target of the hormone thrombopoietin), it has been developed as a medication for conditions that lead to thrombocytopenia (abnormally low platelet counts). An orally active thrombopoietin receptor agonist with megakaryopoiesis stimulating activity. Eltrombopag binds to and stimulates the platelet thrombopoietin receptor (TPO-R or CD110), a member of the hematopoietin receptor superfamily. Activation of TPO-R leads to the proliferation and differentiation of megakaryocytes, thereby increasing the production of blood platelets.",
+        "分子量": 442.5,
+        "分子式": "C25H22N4O4"
+    },
+    {
+        "DB编号": "DB06716",
+        "实验编号": 978,
+        "药品名称": "Fospropofol",
+        "上市时间": "2008-12-12",
+        "Description": "Description Not Available",
+        "分子量": 288.28,
+        "分子式": "C13H21O5P"
+    },
+    {
+        "DB编号": "DB04896",
+        "实验编号": 1021,
+        "药品名称": "Milnacipran",
+        "上市时间": "2009-01-14",
+        "Description": "A cyclopropanecarboxamide serotonin and norepinephrine reuptake inhibitor (SNRI) that is used in the treatment of FIBROMYALGIA.",
+        "分子量": 282.81,
+        "分子式": "C15H23ClN2O"
+    },
+    {
+        "DB编号": "DB05351",
+        "实验编号": 293,
+        "药品名称": "Dexlansoprazole",
+        "上市时间": "2009-01-30",
+        "Description": "The R-isomer of lansoprazole and a substituted benzimidazole prodrug with selective and irreversible proton pump inhibitor activity. As a weak base, dexlansoprazole accumulates in the acidic environment of the secretory canaliculus of the gastric parietal cell where it is converted to an active sulfenamide form that binds to cysteine sulfhydryl groups on the luminal aspect of the proton pump hydrogen-potassium adenosine triphosphatase (H+/K+ ATPase), thereby inhibiting the pump's activity and the parietal cell secretion of H+ ions into the gastric lumen, the final step in gastric acid production. The R-isomer of lansoprazole that is used to treat severe GASTROESOPHAGEAL REFLUX DISEASE.",
+        "分子量": 369.4,
+        "分子式": "C16H14F3N3O2S"
+    },
+    {
+        "DB编号": "DB04854",
+        "实验编号": 1674,
+        "药品名称": "Febuxostat",
+        "上市时间": "2009-02-13",
+        "Description": "A 1,3-thiazolemonocarboxylic acid that is 4-methyl-1,3-thiazole-5-carboxylic acid which is substituted by a 3-cyano-4-(2-methylpropoxy)phenyl group at position 2. It is an orally-active, potent, and selective xanthine oxidase inhibitor used for the treatment of chronic hyperuricaemia in patients with gout. A thiazole derivative and inhibitor of XANTHINE OXIDASE that is used for the treatment of HYPERURICEMIA in patients with chronic GOUT. An orally available, non-purine inhibitor of xanthine oxidase with uric acid lowering activity. Upon oral administration, febuxostat selectively and noncompetitively inhibits the activity of xanthine oxidase, an enzyme that converts oxypurines, including hypoxanthine and xanthine, into uric acid. By inhibiting xanthine oxidase, uric acid production is reduced and serum uric acid levels are lowered. Febuxostat may provide protection against acute renal failure caused by the excessive release of uric acid that occurs upon massive tumor cell lysis resulting from the treatment of some malignancies.",
+        "分子量": 316.4,
+        "分子式": "C16H16N2O3S"
+    },
+    {
+        "DB编号": "DB01590",
+        "实验编号": 1392,
+        "药品名称": "Everolimus",
+        "上市时间": "2009-03-30",
+        "Description": "A derivative of sirolimus and an inhibitor of TOR SERINE-THREONINE KINASES. It is used to prevent GRAFT REJECTION in heart and kidney transplant patients by blocking cell proliferation signals. It is also an ANTINEOPLASTIC AGENT. A derivative of the natural macrocyclic lactone sirolimus with immunosuppressant and anti-angiogenic properties. In cells, everolimus binds to the immunophilin FK Binding Protein-12 (FKBP-12) to generate an immunosuppressive complex that binds to and inhibits the activation of the mammalian Target of Rapamycin (mTOR), a key regulatory kinase. Inhibition of mTOR activation results in the inhibition of T lymphocyte activation and proliferation associated with antigen and cytokine (IL-2, IL-4, and IL-15) stimulation and the inhibition of antibody production. (NCI05) A macrocyclic lactone that is rapamycin in which the hydroxy group attached to the cyclohexyl moiety has been converted into the corresponding 2-hydroxyethyl ether. It is an immunosuppressant and antineoplastic agent.",
+        "分子量": 914.2,
+        "分子式": "C51H79NO13"
+    },
+    {
+        "DB编号": "DB06697",
+        "实验编号": 539,
+        "药品名称": "Artemether",
+        "上市时间": "2009-04-07",
+        "Description": "Not Found",
+        "分子量": 298.37,
+        "分子式": "C16H26O5"
+    },
+    {
+        "DB编号": "DB06212",
+        "实验编号": 1437,
+        "药品名称": "Tolvaptan",
+        "上市时间": "2009-05-19",
+        "Description": "A benzazepine derivative and selective VASOPRESSIN V2 RECEPTOR antagonist that is used to treat euvolemic and hypervolemic HYPONATREMIA. It is also used in the treatment of rapidly progressing AUTOSOMAL DOMINANT POLYCYSTIC KIDNEY DISEASE to slow the rate of cyst development and renal insufficiency. A benzazepine derivative incorporating a benzenedicarboxamide function whch is a selective vasopressin V2 receptor antagonist used to treat euvolemic and hypervolemic hyponatremia. It is also used in the treatment of rapidly progressing autosomal dominant polycystic kidney disease to slow the rate of cyst development and renal insufficiency. Tolvaptan is a racemate consisting of a 1:1 mixture of 5R and 5S stereomers. An orally bioavailable, selective, arginine vasopressin receptor 2 (V2, AVPR2) antagonist that can be used to treat hyponatremia. Upon oral administration, tolvaptan selectively and competitively binds to and blocks the V2 receptor located in the walls of the vasculature and luminal membranes of renal collecting ducts, thereby preventing the binding of vasopressin to the V2 receptor. This prevents water absorption in the kidneys and increases the excretion of electrolyte-free water via the kidneys. This reduces intravascular volume and increases serum sodium concentrations and osmolality.",
+        "分子量": 448.9,
+        "分子式": "C26H25ClN2O3"
+    },
+    {
+        "DB编号": "DB06771",
+        "实验编号": 1246,
+        "药品名称": "Besifloxacin",
+        "上市时间": "2009-05-28",
+        "Description": "Description Not Available",
+        "分子量": 430.3,
+        "分子式": "C19H22Cl2FN3O3"
+    },
+    {
+        "DB编号": "DB01080",
+        "实验编号": 1268,
+        "药品名称": "Vigabatrin",
+        "上市时间": "2009-08-21",
+        "Description": "Not Found",
+        "分子量": 103.12,
+        "分子式": "C4H9NO2"
+    },
+    {
+        "DB编号": "DB06402",
+        "实验编号": 1312,
+        "药品名称": "Telavancin",
+        "上市时间": "2009-09-11",
+        "Description": "A glycopeptide that is vancomycin substituted at position N-3'' by a 2-(decylamino)ethyl group and at position C-29 by a (phosphonomethyl)aminomethyl group. Used as its hydrochloride salt for treatment of adults with complicated skin and skin structure infections caused by bacteria.",
+        "分子量": 1755.6,
+        "分子式": "C80H106Cl2N11O27P"
+    },
+    {
+        "DB编号": "DB06813",
+        "实验编号": 1197,
+        "药品名称": "Pralatrexate",
+        "上市时间": "2009-09-24",
+        "Description": "A folate analogue inhibitor of dihydrofolate reductase (DHFR) exhibiting high affinity for reduced folate carrier-1 (RFC-1) with antineoplastic and immunosuppressive activities. Pralatrexate selectively enters cells expressing RFC-1; intracellularly, this agent is highly polyglutamylated and competes for the folate binding site of DHFR, blocking tetrahydrofolate synthesis, which may result in depletion of nucleotide precursors; inhibition of DNA, RNA and protein synthesis; and apoptotic tumor cell death. Efficient intracellular polyglutamylation of pralatrexate results in higher intracellular concentrations compared to non-polyglutamylated pralatrexate, which is more readily effuxed by the MRP (multidrug resistance protein) drug efflux pump. RFC-1, an oncofetal protein expressed at highest levels during embryonic development, may be over-expressed on the cell surfaces of various cancer cell types. A pteridine that is the N-4-[1-(2,4-diaminopteridin-6-yl)pent-4-yn-2-yl]benzoyl derivative of L-glutamic acid. Used for treatment of Peripheral T-Cell Lymphoma, an aggressive form of non-Hodgkins lymphoma.",
+        "分子量": 477.5,
+        "分子式": "C23H23N7O5"
+    },
+    {
+        "DB编号": "DB06774",
+        "实验编号": 1427,
+        "药品名称": "Capsaicin",
+        "上市时间": "2009-11-16",
+        "Description": "A chili pepper extract with analgesic properties.  Capsaicin is a neuropeptide releasing agent selective for primary sensory peripheral neurons.  Used topically, capsaicin aids in controlling peripheral nerve pain.  This agent has been used experimentally to manipulate substance P and other tachykinins.  In addition, capsaicin may be useful in controlling chemotherapy- and radiotherapy-induced mucositis. An alkylamide found in CAPSICUM that acts at TRPV CATION CHANNELS.",
+        "分子量": 305.4,
+        "分子式": "C18H27NO3"
+    },
+    {
+        "DB编号": "DB09123",
+        "实验编号": 667,
+        "药品名称": "Dienogest",
+        "上市时间": "2010-05-06",
+        "Description": "Not Found",
+        "分子量": 311.4,
+        "分子式": "C20H25NO2"
+    },
+    {
+        "DB编号": "DB06766",
+        "实验编号": 1604,
+        "药品名称": "Alcaftadine",
+        "上市时间": "2010-07-28",
+        "Description": "An imidazobenzazepine that is 6,11-dihydro-5H-imidazo[2,1-b][3]benzazepine substituted at position 3 by a formyl group and at position 11 by a 1-methylpiperidin-4-ylidene group. An antihistamine used for treatment of allergic conjunctivitis.",
+        "分子量": 307.4,
+        "分子式": "C19H21N3O"
+    },
+    {
+        "DB编号": "DB08867",
+        "实验编号": 1430,
+        "药品名称": "Ulipristal",
+        "上市时间": "2010-08-13",
+        "Description": "A selective progesterone receptor modulator with anti-progesterone activity. Ulipristal binds to the progesterone receptor (PR), thereby inhibiting PR-mediated gene expression, and interfering with progesterone activity in the reproductive system. As a result, this agent may suppress the growth of uterine leiomyomatosis. Furthermore, by inhibiting or delaying ovulation and effecting endometrial tissue, ulipristal can be used as an emergency contraception.",
+        "分子量": 475.6,
+        "分子式": "C30H37NO4"
+    },
+    {
+        "DB编号": "DB08868",
+        "实验编号": 340,
+        "药品名称": "Fingolimod",
+        "上市时间": "2010-09-21",
+        "Description": "An aminodiol that consists of propane-1,3-diol having amino and 2-(4-octylphenyl)ethyl substituents at the 2-position. It is a sphingosine 1-phosphate receptor modulator used for the treatment of relapsing-remitting multiple sclerosis. A prodrug, fingolimod is phosphorylated by sphingosine kinase to active metabolite fingolimod-phosphate, a structural analogue of sphingosine 1-phosphate. An orally available derivate of myriocin and sphingosine-1-phosphate receptor 1 (S1PR1, S1P1) modulator, with potential anti-inflammatory and immunomodulating activities. Upon oral administration, fingolimod, as a structural analogue of sphingosine, selectively targets and binds to S1PR1 on lymphocytes and causes transient receptor activation followed by S1PR1 internalization and degradation. This results in the sequestration of lymphocytes in lymph nodes. By preventing egress of lymphocytes. fingolimod reduces both the amount of circulating peripheral lymphocytes and the infiltration of lymphocytes into target tissues. This prevents a lymphocyte-mediated immune response and may reduce inflammation. S1PR1, a G-protein coupled receptor, plays a key role in lymphocyte migration from lymphoid tissues. Fingolimod also shifts macrophages to an anti-inflammatory M2 phenotype, and modulates their proliferation, morphology, and cytokine release via inhibition of the transient receptor potential cation channel, subfamily M, member 7 (TRPM7).",
+        "分子量": 307.5,
+        "分子式": "C19H33NO2"
+    },
+    {
+        "DB编号": "DB06695",
+        "实验编号": 677,
+        "药品名称": "Dabigatran etexilate",
+        "上市时间": "2010-10-19",
+        "Description": "An aromatic amide obtained by formal condensation of the carboxy group of 2-{[(4-{N'-[(hexyloxy)carbonyl]carbamimidoyl}phenyl)amino]methyl}-1-methyl-1H-benzimidazole-5-carboxylic acid with the secondary amino group of ethyl N-pyridin-2-yl-beta-alaninate. A prodrug for dabigatran, a thrombin inhibitor and anticoagulant which is used for the prevention of stroke and systemic embolism.",
+        "分子量": 627.7,
+        "分子式": "C34H41N7O5"
+    },
+    {
+        "DB编号": "DB08871",
+        "实验编号": 1216,
+        "药品名称": "Eribulin",
+        "上市时间": "2010-11-15",
+        "Description": "A fully synthetic macrocyclic ketone analogue of marine sponge natural products. Inhibits growth phase of microtubules via tubulin-based antimitotic mechanism, which leads to G2/M cell-cycle block, disruption of mitotic spindles, and, ultimately, apoptotic cell death after prolonged mitotic blockage An analogue of halichondrin B, a substance derived from a marine sponge (Lissodendoryx sp.) with antineoplastic activity. Eribulin binds to the vinca domain of tubulin and inhibits the polymerization of tubulin and the assembly of microtubules, resulting in inhibition of mitotic spindle assembly, induction of cell cycle arrest at G2/M phase, and, potentially, tumor regression.",
+        "分子量": 729.9,
+        "分子式": "C40H59NO11"
+    },
+    {
+        "DB编号": "DB06684",
+        "实验编号": 1306,
+        "药品名称": "Vilazodone",
+        "上市时间": "2011-01-21",
+        "Description": "A 1-benzofuran that is 5-(piperazin-1-yl}-1-benzofuran-2-carboxamide having a (5-cyanoindol-3-yl)butyl group attached at position N-4 on the piperazine ring. Used for the treatment of major depressive disorder. A selective serotonin (5-HT) reuptake inhibitor (SSRI) and a 5-HT-1A receptor partial agonist, with antidepressant and anti-anxiety activities. Vilazodone inhibits the reuptake of serotonin from the synaptic cleft while stimulating the release of 5-HT into the synaptic cleft. This increases the concentration of 5-HT in the synaptic cleft and potentiates serotonergic neurotransmission in the central nervous system.",
+        "分子量": 441.5,
+        "分子式": "C26H27N5O2"
+    },
+    {
+        "DB编号": "DB05294",
+        "实验编号": 1185,
+        "药品名称": "Vandetanib",
+        "上市时间": "2011-04-06",
+        "Description": "A quinazoline that is 7-[(1-methylpiperidin-4-yl)methoxy]quinazoline bearing additional methoxy and 4-bromo-2-fluorophenylamino substituents at positions 6 and 4 respectively. Used for the treatment of symptomatic or progressive medullary thyroid cancer in patients with unresectable locally advanced or metastatic disease. An orally bioavailable 4-anilinoquinazoline. Vandetanib selectively inhibits the tyrosine kinase activity of vascular endothelial growth factor receptor 2 (VEGFR2), thereby blocking VEGF-stimulated endothelial cell proliferation and migration and reducing tumor vessel permeability. This agent also blocks the tyrosine kinase activity of epidermal growth factor receptor (EGFR), a receptor tyrosine kinase that mediates tumor cell proliferation and migration and angiogenesis.",
+        "分子量": 475.4,
+        "分子式": "C22H24BrFN4O2"
+    },
+    {
+        "DB编号": "DB05812",
+        "实验编号": 1112,
+        "药品名称": "Abiraterone",
+        "上市时间": "2011-04-28",
+        "Description": "A 3beta-sterol that is androsta-5,16-dien-3beta-ol substituted at position 17 by a 3-pyridyl group. Administered as the O-acetate, it is used for treatment of metastatic castrate-resistant prostate cancer. A steroidal compound with antiandrogen activity. Abiraterone inhibits the enzymatic activity of steroid 17alpha-monooxygenase (17alpha-hydrolase/C17,20 lyase complex; CYP17A1), a member of the cytochrome p450 family that catalyzes the 17alpha-hydroxylation of steroid intermediates involved in testosterone synthesis. Administration of this agent may suppress testosterone production by both the testes and the adrenals to castrate-range levels.",
+        "分子量": 320.4,
+        "分子式": "C19H20N4O"
+    },
+    {
+        "DB编号": "DB08882",
+        "实验编号": 693,
+        "药品名称": "Linagliptin",
+        "上市时间": "2011-05-02",
+        "Description": "A potent, orally bioavailable dihydropurinedione-based inhibitor of dipeptidyl peptidase 4 (DPP-4), with hypoglycemic activity. The inhibition of DPP-4 by linagliptin appears to be longer lasting than that by some other DPP-4 inhibitors tested. A purine and quinazoline derivative that functions as an INCRETIN and DIPEPTIDYL-PEPTIDASE IV INHIBTOR. It is used as a HYPOGLYCEMIC AGENT in the treatment of TYPE II DIABETES MELLITUS. A xanthine that is 7H-xanthine bearing (4-methylquinazolin-2-yl)methyl, methyl, but-2-yn-1-yl and 3-aminopiperidin-1-yl substituents at positions 1, 3, 7 and 8 respectively (the R-enantiomer). Used for treatment of type II diabetes.",
+        "分子量": 472.5,
+        "分子式": "C25H28N8O2"
+    },
+    {
+        "DB编号": "DB05521",
+        "实验编号": 1092,
+        "药品名称": "Telaprevir",
+        "上市时间": "2011-05-23",
+        "Description": "An oligopeptide consisting of N-(pyrazin-2-ylcarbonyl)cyclohexylalanyl, 3-methylvalyl, octahydrocyclopenta[c]pyrrole-1-carboxy, and 3-amino-N-cyclopropyl-2-oxohexanamide residues joined in sequence. Used for treatment of chronic hepatitis C virus genotype 1 infection. An orally available peptidomimetic small molecule with activity against hepatitis C virus (HCV). Telaprivir is a selective protease inhibitor that targets the viral HCV NS3-4A serine protease and disrupts processing of viral proteins and formation of a viral replication complex.",
+        "分子量": 679.8,
+        "分子式": "C36H53N7O6"
+    },
+    {
+        "DB编号": "DB05039",
+        "实验编号": 644,
+        "药品名称": "Indacaterol",
+        "上市时间": "2011-07-01",
+        "Description": "Not Found",
+        "分子量": 392.5,
+        "分子式": "C24H28N2O3"
+    },
+    {
+        "DB编号": "DB00349",
+        "实验编号": 282,
+        "药品名称": "Clobazam",
+        "上市时间": "2011-10-21",
+        "Description": "7-Chloro-1H-1,5-benzodiazepine-2,4(3H,5H)-dione in which the hydrogen attached to the nitrogen at position 1 is substituted by a methyl group, whilst that attached to the other nitrogen is substituted by a phenyl group. It is used for the short-term management of acute anxiety and as an adjunct in the treatment of epilepsy in association with other antiepileptics. A 1,5-benzodiazepine and partial gamma-aminobutyric acid (GABA) receptor agonist, with anxiolytic, sedative, and anticonvulsant activities. Clobazam binds to a specific site, distinct from the inhibitory neurotransmitter GABA binding site, on the benzodiazepine-GABA-A-chloride ionophore receptor complex located in the central nervous system (CNS). This binding causes an allosteric modification of the receptor and enhances the affinity of GABA to the receptor leading to an increase in the opening of chloride-channels. This leads to an increase in chloride ion conductance, neuronal hyperpolarization, inhibition of the action potential and a decrease in neuronal excitability. A benzodiazepine derivative that is a long-acting GABA-A RECEPTOR agonist. It is used as an antiepileptic in the treatment of SEIZURES, including seizures associated with LENNOX-GASTAUT SYNDROME.  It is also used as an anxiolytic, for the short-term treatment of acute ANXIETY.",
+        "分子量": 300.74,
+        "分子式": "C16H13ClN2O2"
+    },
+    {
+        "DB编号": "DB06626",
+        "实验编号": 1206,
+        "药品名称": "Axitinib",
+        "上市时间": "2012-01-27",
+        "Description": "A benzamide and indazole derivative that acts as a TYROSINE KINASE inhibitor of the VASCULAR ENDOTHELIAL GROWTH FACTOR RECEPTOR. It is used in the treatment of advanced RENAL CELL CARCINOMA. An indazole substituted at position 3 by a 2-(pyridin-2-yl)vinyl group and at position 6 by a 2-(N-methylaminocarboxy)phenylsulfanyl group. Used for the treatment of advanced renal cell carcinoma after failure of a first line systemic treatment. An orally bioavailable tyrosine kinase inhibitor. Axitinib inhibits the proangiogenic cytokines vascular endothelial growth factor (VEGF) and platelet-derived growth factor receptor (PDGF), thereby exerting an anti-angiogenic effect.",
+        "分子量": 386.5,
+        "分子式": "C22H18N4OS"
+    },
+    {
+        "DB编号": "DB08828",
+        "实验编号": 189,
+        "药品名称": "Vismodegib",
+        "上市时间": "2012-01-30",
+        "Description": "A benzamide obtained by formal condensation between the carboxy group of 2-chloro-4-(methylsulfonyl)benzoic acid and the anilino group of 4-chloro-3-(pyridin-2-yl)aniline. Used for the treatment metastatic basal cell carcinoma. An orally bioavailable, small molecule inhibitor of SMO and the Hedgehog (Hh) pathway, with potential antineoplastic activity. Upon oral administration, vismodegib targets, binds to and inhibits the cell membrane-spanning G-protein coupled receptor SMO, which may result in the suppression of Hh pathway signaling and a decrease in tumor cell proliferation and survival. SMO is activated upon binding of Hh ligand to the cell surface receptor Patched (PTCH); inappropriate activation of Hh signaling and uncontrolled cellular proliferation may be associated with SMO mutations.",
+        "分子量": 421.3,
+        "分子式": "C19H14Cl2N2O3S"
+    },
+    {
+        "DB编号": "DB08820",
+        "实验编号": 1465,
+        "药品名称": "Ivacaftor",
+        "上市时间": "2012-01-31",
+        "Description": "An aromatic amide obtained by formal condensation of the carboxy group of 4-oxo-1,4-dihydroquinoline-3-carboxylic acid with the amino group of 5-amino-2,4-di-tert-butylphenol. Used for the treatment of cystic fibrosis.",
+        "分子量": 392.5,
+        "分子式": "C24H28N2O3"
+    },
+    {
+        "DB编号": "DB08819",
+        "实验编号": 1578,
+        "药品名称": "Tafluprost",
+        "上市时间": "2012-02-10",
+        "Description": "A prostaglandin Falpha that is prostaglandin F2alpha in which the carboxylic acid function has been converted to the corresponding isopropyl ester and the 3-hydroxy-1-octenyl side-chain is substituted by 3,3-difluoro-4-phenoxybut-1-enyl. Used for treatment of elevated intraocular pressure in patients with open-angle glaucoma or ocular hypertension.",
+        "分子量": 452.5,
+        "分子式": "C25H34F2O5"
+    },
+    {
+        "DB编号": "DB06237",
+        "实验编号": 506,
+        "药品名称": "Avanafil",
+        "上市时间": "2012-04-27",
+        "Description": "A monocarboxylic acid amide obtained by formal condensation of the carboxy group of 4-[(3-chloro-4-methoxybenzyl)amino]-2-[(2S)-2-(hydroxymethyl)pyrrolidin-1-yl]pyrimidine-5-carboxylic acid with the amino group of pyrimidin-2-ylmethylamine. Used for treatment of erectile dysfunction. An orally available phosphodiesterase type 5 (PDE5) inhibitor with vasodilatory activity. Avanafil selectively inhibits PDE5, thus inhibiting the degradation of cyclic guanosine monophosphate (cGMP) found in the smooth muscle of the corpus cavernosa of the penis. The inhibition of cGMP degradation results in prolonged muscle relaxation, vasodilation, and blood engorgement of the corpus cavernosa, thereby prolonging penile erection.",
+        "分子量": 483.9,
+        "分子式": "C23H26ClN7O3"
+    },
+    {
+        "DB编号": "DB08893",
+        "实验编号": 237,
+        "药品名称": "Mirabegron",
+        "上市时间": "2012-06-28",
+        "Description": "A monocarboxylic acid amide obtained by formal condensation of the carboxy group of 2-amino-1,3-thiazol-4-ylacetic acid with the anilino group of (1R)-2-{[2-(4-aminophenyl)ethyl]amino}-1-phenylethanol. Used for the treatment of overactive bladder syndrome. An orally bioavailable agonist of the human beta-3 adrenergic receptor (ADRB3), with muscle relaxing, neuroprotective and potential antineoplastic activities.  Upon oral administration, mirabegron binds to and activates ADRB3, which leads to smooth muscle relaxation. Mirabegron also restores sympathetic stimulation in mesenchymal stem cell (MSC) niches, inhibits JAK2-mutated hematopoietic stem cell (HSC) expansion and blocks the progression of myeloproliferative neoplasms (MPNs). Lack of sympathetic stimulation of the MSC and HSC niche is associated with the development of MPNs.",
+        "分子量": 396.5,
+        "分子式": "C21H24N4O2S"
+    },
+    {
+        "DB编号": "DB08889",
+        "实验编号": 1219,
+        "药品名称": "Carfilzomib",
+        "上市时间": "2012-07-20",
+        "Description": "A synthetic tetrapeptide consisting of morpholin-4-acetyl, L-2-amino-4-phenylbutanoyl, L-leucyl and L-phenylalanyl residues joined in sequence with the C-terminus connected to the amino group of (2S)-2-amino-4-methyl-1-[(2R)-2-methyloxiran-2-yl]-1-oxopentan-1-one via an amide linkage. Used for the treatment of patients with multiple myeloma An epoxomicin derivate with potential antineoplastic activity. Carfilzomib irreversibly binds to and inhibits the chymotrypsin-like activity of the 20S catalytic core subunit of the proteasome, a protease complex responsible for degrading a large variety of cellular proteins. Inhibition of proteasome-mediated proteolysis results in an accumulation of polyubiquinated proteins, which may lead to cell cycle arrest, induction of apoptosis, and inhibition of tumor growth.",
+        "分子量": 719.9,
+        "分子式": "C40H57N5O7"
+    },
+    {
+        "DB编号": "DB09101",
+        "实验编号": 339,
+        "药品名称": "Elvitegravir",
+        "上市时间": "2012-08-27",
+        "Description": "A modified quinolone antibiotic with activity against human immunodeficiency virus 1. Elvitegravir is an inhibitor of viral integrase and retains activity against integrase mutants that are resistant to Raltegravir. A quinolinemonocarboxylic acid that is 7-methoxy-4-oxo-1,4-dihydroquinoline-3-carboxylic acid substited at position 1 by a 1-hydroxy-3-methylbutan-2-yl group and at position 6 by a 3-chloro-2-fluorobenzyl group (the S-enantiomer). It is used in combination therapy for the treatment of HIV-1 infection.",
+        "分子量": 447.9,
+        "分子式": "C23H23ClFNO5"
+    },
+    {
+        "DB编号": "DB08899",
+        "实验编号": 1110,
+        "药品名称": "Enzalutamide",
+        "上市时间": "2012-08-31",
+        "Description": "A benzamide obtained by formal condensation of the carboxy group of 4-{3-[4-cyano-3-(trifluoromethyl)phenyl]-5,5-dimethyl-4-oxo-2-thioxoimidazolidin-1-yl}-2-fluorobenzoic acid with methylamine. Used for the treatment of of metastatic castration-resistant prostate cancer. An orally bioavailable, organic, non-steroidal small molecule targeting the androgen receptor (AR) with potential antineoplastic activity. Through a mechanism that is reported to be different from other approved AR antagonists, enzalutamide inhibits the activity of prostate cancer cell ARs, which may result in a reduction in prostate cancer cell proliferation and, correspondingly, a reduction in the serum prostate specific antigen (PSA) level. AR over-expression in prostate cancer represents a key mechanism associated with prostate cancer hormone resistance.",
+        "分子量": 464.4,
+        "分子式": "C21H16F4N4O2S"
+    },
+    {
+        "DB编号": "DB06616",
+        "实验编号": 1240,
+        "药品名称": "Bosutinib",
+        "上市时间": "2012-09-04",
+        "Description": "A synthetic quinolone derivative and dual kinase inhibitor that targets both Abl and Src kinases with potential antineoplastic activity. Unlike imatinib, bosutinib inhibits the autophosphorylation of both Abl and Src kinases, resulting in inhibition of cell growth and apoptosis. Because of the dual mechanism of action, this agent may have activity in resistant CML disease, other myeloid malignancies and solid tumors. Abl kinase is upregulated in the presence of the abnormal Bcr-abl fusion protein which is commonly associated with chronic myeloid leukemia (CML). Overexpression of specific Src kinases is also associated with the imatinib-resistant CML phenotype. An aminoquinoline that is 4-[(2,4-dichloro-5-methoxyphenyl)amino]-7-[3-(4-methylpiperazin-1-yl)propoxy]quinoline bearing additional cyano and methoxy substituents at positions 3 and 6 respectively.",
+        "分子量": 530.4,
+        "分子式": "C26H29Cl2N5O3"
+    },
+    {
+        "DB编号": "DB08896",
+        "实验编号": 1196,
+        "药品名称": "Regorafenib",
+        "上市时间": "2012-09-27",
+        "Description": "A pyridinecarboxamide obtained by condensation of 4-[4-({[4-chloro-3-(trifluoromethyl)phenyl]carbamoyl}amino)-3-fluorophenoxy]pyridine-2-carboxylic acid with methylamine. Used for for the treatment of metastatic colorectal cancer in patients who have previously received chemotherapy, anti-EGFR or anti-VEGF therapy. The anhydrous form of regorafenib, an orally bioavailable small molecule with potential antiangiogenic and antineoplastic activities. Regorafenib binds to and inhibits vascular endothelial growth factor receptors (VEGFRs) 2 and 3, and Ret, Kit, PDGFR and Raf kinases, which may result in the inhibition of tumor angiogenesis and tumor cell proliferation. VEGFRs are receptor tyrosine kinases that play important roles in tumor angiogenesis; the receptor tyrosine kinases RET, KIT, and PDGFR, and the serine/threonine-specific Raf kinase are involved in tumor cell signaling. The hydrate form of regorafenib, an orally bioavailable small molecule with potential antiangiogenic and antineoplastic activities. Regorafenib binds to and inhibits vascular endothelial growth factor receptors (VEGFRs) 2 and 3, and Ret, Kit, PDGFR and Raf kinases, which may result in the inhibition of tumor angiogenesis and tumor cell proliferation. VEGFRs are receptor tyrosine kinases that play important roles in tumor angiogenesis; the receptor tyrosine kinases RET, KIT, and PDGFR, and the serine/threonine-specific Raf kinase are involved in tumor cell signaling.",
+        "分子量": 482.8,
+        "分子式": "C21H15ClF4N4O3"
+    },
+    {
+        "DB编号": "DB08883",
+        "实验编号": 1257,
+        "药品名称": "Perampanel",
+        "上市时间": "2012-10-22",
+        "Description": "A member of the class of bipyridines that is 2,3'-bipyridin-6'-one substituted at positions 1' and 5' by phenyl and 2-cyanophenyl groups respectively. Used as an adjunctive therapy for the treatment of partial-onset seizures in patients with epilepsy. An orally active, non-competitive, and selective alpha-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid (AMPA) glutamate receptor antagonist, with anti-epileptic activity. Although the mechanism of action through which perampanel exerts its antiepileptic effect has not been fully elucidated, this agent antagonizes the AMPA subtype of the excitatory glutamate receptor found on postsynaptic neurons in the central nervous system (CNS). This antagonistic action prevents AMPA receptor activation by glutamate and results in the inhibition of neuronal excitation, repetitive neuronal firing, and the stabilization of hyper-excited neural membranes. Glutamate, the primary excitatory neurotransmitter in the CNS, plays an important role in various neurological disorders caused by neuronal hyperexcitation.",
+        "分子量": 349.4,
+        "分子式": "C23H15N3O"
+    },
+    {
+        "DB编号": "DB04865",
+        "实验编号": 1188,
+        "药品名称": "Omacetaxine mepesuccinate",
+        "上市时间": "2012-10-26",
+        "Description": "A cephalotaxine-derived alkaloid ester obtained from Cephalotaxus harringtonia; used for the treatment of chronic or accelerated phase chronic myeloid leukaemia. Semisynthetic derivative of harringtonine that acts as a protein synthesis inhibitor and induces APOPTOSIS in tumor cells. It is used in the treatment of MYELOID LEUKEMIA, CHRONIC.",
+        "分子量": 545.6,
+        "分子式": "C29H39NO9"
+    },
+    {
+        "DB编号": "DB08875",
+        "实验编号": 688,
+        "药品名称": "Cabozantinib",
+        "上市时间": "2012-11-29",
+        "Description": "A dicarboxylic acid diamide that is N-phenyl-N'-(4-fluorophenyl)cyclopropane-1,1-dicarboxamide in which the hydrogen at position 4 on the phenyl ring is substituted by a (6,7-dimethoxyquinolin-4-yl)oxy group. A multi-tyrosine kinase inhibitor, used (as its malate salt) for the treatment of progressive, metastatic, medullary thyroid cancer. An orally bioavailable, small molecule receptor tyrosine kinase (RTK) inhibitor with potential antineoplastic activity. Cabozantinib strongly binds to and inhibits several RTKs, which are often overexpressed in a variety of cancer cell types, including hepatocyte growth factor receptor (MET), RET (rearranged during transfection), vascular endothelial growth factor receptor types 1 (VEGFR-1), 2 (VEGFR-2), and 3 (VEGFR-3), mast/stem cell growth factor (KIT), FMS-like tyrosine kinase 3 (FLT-3), TIE-2 (TEK tyrosine kinase, endothelial), tropomyosin-related kinase B (TRKB) and AXL. This may result in an inhibition of both tumor growth and angiogenesis, and eventually lead to tumor regression.",
+        "分子量": 501.5,
+        "分子式": "C28H24FN3O5"
+    },
+    {
+        "DB编号": "DB06663",
+        "实验编号": 1030,
+        "药品名称": "Pasireotide",
+        "上市时间": "2012-12-14",
+        "Description": "A six-membered homodetic cyclic peptide composed from L-phenylglycyl, D-tryptophyl, L-lysyl, O-benzyl-L-tyrosyl, L-phenylalanyl and modified L-hydroxyproline residues joined in sequence. A somatostatin analogue with pharmacologic properties mimicking those of the natural hormone somatostatin; used (as its diaspartate salt) for treatment of Cushing's disease. A synthetic long-acting cyclic peptide with somatostatin-like activity. Pasireotide activates a broad spectrum of somatostatin receptors, exhibiting a much higher binding affinity for somatostatin receptors 1, 3, and 5 than octreotide in vitro, as well as a comparable binding affinity for somatostatin receptor 2. This agent is more potent than somatostatin in inhibiting the release of human growth hormone (HGH), glucagon, and insulin.",
+        "分子量": 1047.2,
+        "分子式": "C58H66N10O9"
+    },
+    {
+        "DB编号": "DB08901",
+        "实验编号": 675,
+        "药品名称": "Ponatinib",
+        "上市时间": "2012-12-14",
+        "Description": "A benzamide obtained by the formal condensation of the carboxy group of 3-(imidazo[1,2-b]pyridazin-3-ylethynyl)-4-methylbenzoic acid with the anilino group of 4-[(4-methylpiperazin-1-yl)methyl]-3-(trifluoromethyl)aniline. It is a multi-target tyrosine kinase inhibitor that targets ABL, SRC, FGFR, and others and was designed to overcome the resistance of BCR-ABL mutation to imatinib, in particular the gatekeeper mutation ABL(T315I). An orally bioavailable multitargeted receptor tyrosine kinase (RTK) inhibitor with potential antiangiogenic and antineoplastic activities. Ponatinib inhibits unmutated and all mutated forms of Bcr-Abl, including T315I, the highly drug therapy-resistant missense mutation of Bcr-Abl. This agent also inhibits other tyrosine kinases including those associated with vascular endothelial growth factor receptors (VEGFRs) and fibroblast growth factor receptors (FGFRs); in addition, it inhibits the tyrosine kinase receptor TIE2 and FMS-related tyrosine kinase receptor-3 (Flt3). RTK inhibition by ponatinib may result in the inhibition of cellular proliferation and angiogenesis and may induce cell death. Bcr-Abl is a fusion tyrosine kinase encoded by the Philadelphia chromosome.",
+        "分子量": 532.6,
+        "分子式": "C29H27F3N6O"
+    },
+    {
+        "DB编号": "DB08827",
+        "实验编号": 517,
+        "药品名称": "Lomitapide",
+        "上市时间": "2012-12-21",
+        "Description": "A member of the class of benzamides obtained by formal condensation of the carboxy group of 4'-(trifluoromethyl)biphenyl-2-carboxylic acid with the primary amino group of 9-[4-(4-aminopiperidin-1-yl)butyl]-N-(2,2,2-trifluoroethyl)-9H-fluorene-9-carboxamide. Used (as its mesylate salt) as a complement to a low-fat diet and other lipid-lowering treatments in patients with homozygous familial hypercholesterolemia. A small molecule inhibitor of microsomal triglyceride transfer protein (MTP), an enzyme located in the lumen of the endoplasmic reticulum responsible for absorbing dietary lipids and transferring triglycerides onto apolipoprotein B (apo-B) in the assembly of very-low-density lipoprotein. Inhibition of MTP by lomitapide blocks transfer of lipid to apo-B, and as a result emerging apo-B is destroyed and lipoprotein secretion is inhibited.",
+        "分子量": 693.7,
+        "分子式": "C39H37F6N3O2"
+    },
+    {
+        "DB编号": "DB08909",
+        "实验编号": 1479,
+        "药品名称": "Glycerol phenylbutyrate",
+        "上市时间": "2013-02-01",
+        "Description": "Description Not Available",
+        "分子量": 530.6,
+        "分子式": "C33H38O6"
+    },
+    {
+        "DB编号": "DB08910",
+        "实验编号": 208,
+        "药品名称": "Pomalidomide",
+        "上市时间": "2013-02-08",
+        "Description": "An aromatic amine that is thalidomide substituted at position 4 on the isoindole ring system by an amino group. Used for the treatment of multiple myeloma in patients who failed to respond to previous therapies. An orally bioavailable derivative of thalidomide with potential immunomodulating, antiangiogenic and antineoplastic activities. Although its exact mechanism of action has yet to be fully elucidated, pomalidomide appears to inhibit TNF-alpha production, enhance the activity of T cells and natural killer (NK) cells and enhance antibody-dependent cellular cytotoxicity (ADCC). In addition, pomalidomide may inhibit tumor angiogenesis, promote cell cycle arrest in susceptible tumor cell populations, and stimulate erythropoeisis.",
+        "分子量": 273.24,
+        "分子式": "C13H11N3O4"
+    },
+    {
+        "DB编号": "DB04938",
+        "实验编号": 330,
+        "药品名称": "Ospemifene",
+        "上市时间": "2013-02-26",
+        "Description": "An organochlorine compound that is a selective estrogen receptor modulator; used for treatment of dyspareunia.",
+        "分子量": 378.9,
+        "分子式": "C24H23ClO2"
+    },
+    {
+        "DB编号": "DB08908",
+        "实验编号": 1393,
+        "药品名称": "Dimethyl fumarate",
+        "上市时间": "2013-03-27",
+        "Description": "A fumarate derivative that is used as a DERMATOLOGIC AGENT in the treatment of PSORIASIS and SKIN DISEASES. It also may be used as an IMMUNOSUPPRESSIVE AGENT in the treatment of MULTIPLE SCLEROSIS. An enoate ester resulting from the formal condensation of both carboxy groups of fumaric acid with methanol. Used for treatment of adults with relapsing forms of multiple sclerosis. An orally bioavailable methyl ester of fumaric acid and activator of nuclear factor erythroid 2 [NF-E2]-related factor 2 (Nrf2, Nfe2l2), with potential neuroprotective, immunomodulating and radiosensitizing activities. Although the exact mechanism of action through which dimethyl fumarate exerts its neuroprotective and immunomodulatory effects have yet to be fully understood, upon oral administration, dimethyl fumarate is converted into its active metabolite monomethyl fumarate (MMF) and MMF binds to Nrf2. Subsequently, Nrf2 translocates to the nucleus and binds to the antioxidant response element (ARE). This induces the expression of a number of cytoprotective genes, including NAD(P)H quinone oxidoreductase 1 (NQO1), sulfiredoxin 1 (Srxn1), heme oxygenase-1 (HO1, HMOX1), superoxide dismutase 1 (SOD1), gamma-glutamylcysteine synthetase (gamma-GCS), thioredoxin reductase-1 (TXNRD1), glutathione S-transferase (GST), glutamate-cysteine ligase catalytic subunit (Gclc) and glutamate-cysteine ligase regulatory subunit (Gclm); this also increases the synthesis of the antioxidant glutathione (GSH). The intraneuronal synthesis of GSH may protect neuronal cells from damage due to oxidative stress. Dimethyl fumarate also appears to inhibit the nuclear factor-kappa B (NF-kB)-mediated pathway, modulates the production of certain cytokines and induces apoptosis in certain T-cell subsets. Its radiosensitizing activity is due to this agent's ability to bind to and sequester intracellular GSH, thereby depleting intracellular GSH and preventing its anti-oxidative effects. This enhances the cytotoxicity of ionizing radiation in hypoxic cancer cells. Nrf2, a leucine zipper transcription factor, plays a key role in redox homeostasis and cytoprotection against oxidative stress.",
+        "分子量": 144.12,
+        "分子式": "C6H8O4"
+    },
+    {
+        "DB编号": "DB08907",
+        "实验编号": 671,
+        "药品名称": "Canagliflozin",
+        "上市时间": "2013-03-29",
+        "Description": "Not Found",
+        "分子量": 444.5,
+        "分子式": "C24H25FO5S"
+    },
+    {
+        "DB编号": "DB09082",
+        "实验编号": 395,
+        "药品名称": "Vilanterol",
+        "上市时间": "2013-05-10",
+        "Description": "Description Not Available",
+        "分子量": 486.4,
+        "分子式": "C24H33Cl2NO5"
+    },
+    {
+        "DB编号": "DB08912",
+        "实验编号": 684,
+        "药品名称": "Dabrafenib",
+        "上市时间": "2013-05-29",
+        "Description": "An orally bioavailable inhibitor of B-raf (BRAF) protein with potential antineoplastic activity. Dabrafenib selectively binds to and inhibits the activity of B-raf, which may inhibit the proliferation of tumor cells which contain a mutated BRAF gene. B-raf belongs to the raf/mil family of serine/threonine protein kinases and plays a role in regulating the MAP kinase/ERKs signaling pathway, which may be constitutively activated due to BRAF gene mutations. An organofluorine compound and antineoplastic agent, used as its mesylate salt in treatment of metastatic melanoma.",
+        "分子量": 519.6,
+        "分子式": "C23H20F3N5O2S2"
+    },
+    {
+        "DB编号": "DB06401",
+        "实验编号": 1545,
+        "药品名称": "Bazedoxifene",
+        "上市时间": "2013-10-03",
+        "Description": "Description Not Available",
+        "分子量": 470.6,
+        "分子式": "C30H34N2O3"
+    },
+    {
+        "DB编号": "DB08931",
+        "实验编号": 490,
+        "药品名称": "Riociguat",
+        "上市时间": "2013-10-08",
+        "Description": "A carbamate ester that is the methyl ester of {4,6-diamino-2-[1-(2-fluorobenzyl)-1H-pyrazolo[3,4-b]pyridin-3-yl]pyrimidin-5-yl}methylcarbamic acid. It is used for treatment of chronic thromboembolic pulmonary hypertension and pulmonary arterial hypertension",
+        "分子量": 422.4,
+        "分子式": "C20H19FN8O2"
+    },
+    {
+        "DB编号": "DB08932",
+        "实验编号": 1068,
+        "药品名称": "Macitentan",
+        "上市时间": "2013-10-18",
+        "Description": "A member of the class of sulfamides in which the two amino groups of sulfonamide are substituted by 5-(4-bromophenyl)-6-{2-[(5-bromopyrimidin-2-yl)oxy]ethoxy}pyrimidin-4-yl and propyl groups. An orphan drug used for the treatment of pulmonary arterial hypertension. An orally available dual endothelin receptor (ETR) antagonist with potential antihypertensive and antineoplastic activity. Upon administration, macitentan and its metabolites block the binding of endothelin isoform 1 (ET-1) to type-A and type-B ETR on both the tumor cells and the endothelial cells in the tumor vasculature. This prevents ET-1 mediated signaling transduction which may decrease tumor cell proliferation, progression, and angiogenesis in tumor tissue. ET-1, a potent vasoconstrictor that plays an important role in inflammation and tissue repair, is, together with its receptors, overexpressed varyingly in many tumor cell types.",
+        "分子量": 588.3,
+        "分子式": "C19H20Br2N6O4S"
+    },
+    {
+        "DB编号": "DB08933",
+        "实验编号": 1114,
+        "药品名称": "Luliconazole",
+        "上市时间": "2013-11-14",
+        "Description": "Description Not Available",
+        "分子量": 354.3,
+        "分子式": "C14H9Cl2N3S2"
+    },
+    {
+        "DB编号": "DB09071",
+        "实验编号": 1013,
+        "药品名称": "Tasimelteon",
+        "上市时间": "2014-01-31",
+        "Description": "A member of the class of 1-benzofurans that is propionamide in which one of the amide hydrogens is replaced by a [(1R,2R)-2-(2,3-dihydro-1-benzofuran-4-yl)cyclopropyl]methyl group. A melatonin receptor agonist used for the treatment of non-24-hour sleep-wake disorder.",
+        "分子量": 245.32,
+        "分子式": "C15H19NO2"
+    },
+    {
+        "DB编号": "DB06262",
+        "实验编号": 694,
+        "药品名称": "Droxidopa",
+        "上市时间": "2014-02-18",
+        "Description": "A serine derivative that is L-serine substituted at the beta-position by a 3,4-dihydroxyphenyl group. A prodrug for noradrenalone, it is used for treatment of neurogenic orthostatic hypotension A synthetic precursor of norepinephrine that is used in the treatment of PARKINSONIAN DISORDERS and ORTHOSTATIC HYPOTENSION.",
+        "分子量": 168.15,
+        "分子式": "C8H8O4"
+    },
+    {
+        "DB编号": "DB06219",
+        "实验编号": 1613,
+        "药品名称": "Dalbavancin",
+        "上市时间": "2014-05-23",
+        "Description": "A second-generation, semi-synthetic lipoglycopeptide antibiotic, with bactericidal activity against a variety of gram-positive bacteria. Upon administration, dalbavancin binds, at a site different from that of penicillins and cephalosporins, tightly to the D-alanyl-D-alanine portion of peptidoglycan chains, thereby preventing peptidoglycan elongation and interfering with bacterial cell wall synthesis. This leads to activation of bacterial autolysins and induces cell wall lysis. A semisynthetic glycopeptide used for the treatment of acute bacterial skin and skin structure infections caused or suspected to be caused by susceptible isolates of designated Gram-positive microorganisms including MRSA.",
+        "分子量": 1816.7,
+        "分子式": "C88H100Cl2N10O28"
+    },
+    {
+        "DB编号": "DB09040",
+        "实验编号": 1153,
+        "药品名称": "Efinaconazole",
+        "上市时间": "2014-06-06",
+        "Description": "A member of the class of triazoles that is butan-2-ol which is substituted at positions 1, 2, and 3 by 1,2,4-triazol-1-yl, 2,4-difluorophenyl, and 4-methylenepiperidin-1-yl groups, respectively (the 2R,3R stereoisomer). It is an antifungal drug used for the topical treatment of onychomycosis (a nail infection caused mainly by dermatophytes). A triazole compound, with antifungal activity. Upon administration, efinaconazole targets, binds to and inhibits 14-alpha-demethylase, a cytochrome P450-dependent enzyme. Inhibition of 14-alpha-demethylase prevents the conversion of lanosterol to ergosterol, an important component of the fungal cell wall. Inhibition of ergosterol synthesis changes the fungal cell membrane composition and integrity, alters membrane permeability and eventually leads to fungal cell lysis.",
+        "分子量": 348.4,
+        "分子式": "C18H22F2N4O"
+    },
+    {
+        "DB编号": "DB09042",
+        "实验编号": 1463,
+        "药品名称": "Tedizolid phosphate",
+        "上市时间": "2014-06-20",
+        "Description": "A  phosphate monoester resulting from the formal condensation of equimolar amounts of phosphoric acid with the hydroxy group of tedizolid . It is a prodrug of tedizolid, used for the treatment of acute bacterial skin infections caused by certain susceptible bacteria, including Staphylococcus aureus (including methicillin-resistant strains (MRSA) and methicillin-susceptible strains), various Streptococcus species, and Enterococcus faecalis.",
+        "分子量": 450.3,
+        "分子式": "C17H16FN6O6P"
+    },
+    {
+        "DB编号": "DB09054",
+        "实验编号": 1099,
+        "药品名称": "Idelalisib",
+        "上市时间": "2014-07-23",
+        "Description": "A member of the class of quinazolines that is 5-fluoro-3-phenylquinazolin-4-one in which the hydrogen at position 2 is replaced by a (1S)-1-(3H-purin-6-ylamino)propyl group. used for for the treatment of refractory indolent non-Hodgkin's lymphoma and relapsed chronic lymphocytic leukemia. An orally bioavailable, small molecule inhibitor of the delta isoform of the 110 kDa catalytic subunit of class I phosphoinositide-3 kinase (PI3K) with potential immunomodulating and antineoplastic activities.  Idelalisib inhibits the production of the second messenger phosphatidylinositol-3,4,5-trisphosphate (PIP3), preventing the activation of the PI3K signaling pathway and inhibiting tumor cell proliferation, motility, and survival. Unlike other isoforms of PI3K, PI3K-delta is expressed primarily in hematopoietic lineages. The targeted inhibition of PI3K-delta is designed to preserve PI3K signaling in normal, non-neoplastic cells.",
+        "分子量": 158.12,
+        "分子式": "C4H6N4O3"
+    },
+    {
+        "DB编号": "DB09080",
+        "实验编号": 638,
+        "药品名称": "Olodaterol",
+        "上市时间": "2014-07-31",
+        "Description": "A member of the class of benzoxazine that is 6-hydroxy-1,4-benzoxazin-3-one in which the hydrogen at position 4 is replaced by a (1R)-1-hydroxy-2-{[1-(4-methoxyphenyl)-2-methylpropan-2-yl]amino}ethyl group. Used (as its hydrochloride salt) for long-term treatment of airflow obstruction in patients with chronic obstructive pulmonary disease including chronic bronchitis and/or emphysema.",
+        "分子量": 422.9,
+        "分子式": "C21H27ClN2O5"
+    },
+    {
+        "DB编号": "DB09038",
+        "实验编号": 953,
+        "药品名称": "Empagliflozin",
+        "上市时间": "2014-08-01",
+        "Description": "A C-glycosyl compound consisting of a beta-glucosyl residue having a (4-chloro-3-{4-[(3S)-tetrahydrofuran-3-yloxy]benzyl}phenyl group at the anomeric centre. A sodium-glucose co-transporter 2 inhibitor used as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus. An orally available competitive inhibitor of sodium-glucose co-transporter 2 (SGLT2; SLC5A2) with antihyperglycemic activity. Upon oral administration, empagliflozin selectively and potently inhibits SGLT2 in the kidneys, thereby suppressing the reabsorption of glucose in the proximal tubule. Inhibition of SGLT2 increases urinary glucose excretion by the kidneys, resulting in a reduction of plasma glucose levels in an insulin-independent manner. Inhibition of SGLT2 in the kidneys also suppresses the renal reabsorption of 1,5-anhydroglucitol (1,5AG). This lowers serum 1,5AG and neutrophil 1,5-anhydroglucitol-6-phosphate (1,5AG6P) levels, which may improve neutropenia and neutrophil dysfunction in patients with glycogen storage disease type Ib (GSD Ib). SGLT2, a transport protein exclusively expressed in the proximal renal tubules, mediates approximately 90% of renal glucose reabsorption from tubular fluid.",
+        "分子量": 450.9,
+        "分子式": "C23H27ClO7"
+    },
+    {
+        "DB编号": "DB09039",
+        "实验编号": 1105,
+        "药品名称": "Eliglustat",
+        "上市时间": "2014-08-19",
+        "Description": "A carboxamide obtained by formal condensation of the carboxy group of octanoic acid with the primary amino group of (1R,2R)-2-amino-1-(2,3-dihydro-1,4-benzodioxin-6-yl)-3-(pyrrolidin-1-yl)propan-1-ol. A ceramide glucosyltransferase inhibitor used (as its tartrate salt) for treatment of Gaucher's disease. A ceramide analog and an orally bioavailable inhibitor of glucosylceramide synthase (GCS; ceramide glucosyltransferase), that may be used to decrease the production of glycosphingolipids (GSLs) including glucosylceramide, also known as glucocerebroside. Upon oral administration, eliglustat inhibits GCS, which catalyzes the initial step in the synthesis of glucosylceramide and other GSLs. This decreases the production of glucosylceramide and other GSLs, which have important roles in various diseases and cellular processes, including immune processes and functions. Eliglustat may be used in substrate reduction therapy in diseases in which the enzyme glucocerebrosidase (GCase), responsible for the breakdown of glucocerebroside, is deficient.",
+        "分子量": 404.5,
+        "分子式": "C23H36N2O4"
+    },
+    {
+        "DB编号": "DB09561",
+        "实验编号": 1563,
+        "药品名称": "Sodium glycerophosphate",
+        "上市时间": "2014-08-25",
+        "Description": "The sodium salt form of an organic phosphate compound that provides phosphate for nutritional purposes. In addition, sodium glycerophosphate can be used as a phosphate diluting agent upon internal contamination with the beta-emiting radioisotope phosphate P 32 (P-32) that competes with P-32 for absorption. As sodium glycerophosphate is administered in high amounts, the absorption of P-32 is prevented or minimalized.",
+        "分子量": 216.04,
+        "分子式": "C3H7Na2O6P"
+    },
+    {
+        "DB编号": "DB09079",
+        "实验编号": 1231,
+        "药品名称": "Nintedanib",
+        "上市时间": "2014-10-15",
+        "Description": "A member of the class of oxindoles that is a kinase inhibitor used (in the form of its ethylsulfonate salt) for the treatment of idiopathic pulmonary fibrosis and cancer. An orally bioavailable, indolinone-derived inhibitor of multiple receptor tyrosine kinases (RTKs) and non-receptor tyrosine kinases (nRTKs), with potential antiangiogenic, antifibrotic and antineoplastic activities. Upon administration, nintedanib selectively binds to and inhibits vascular endothelial growth factor receptor (VEGFR), fibroblast growth factor receptor (FGFR), platelet-derived growth factor receptor (PDGFR), and colony stimulating factor 1 receptor (CSF1R) tyrosine kinases, which may result in the induction of endothelial cell apoptosis, the reduction in tumor vasculature, the inhibition of tumor cell proliferation and migration, and antifibrotic activity in pulmonary fibrosis. In addition, nintedanib also binds to and inhibits members of the Src family of tyrosine kinases, including Src, Lck and Lyn, and fms-like tyrosine kinase 3 (FLT-3). VEGFR, FGFR, PDGFR and CSF1R RTKs play key roles in tumor angiogenesis, tumor cell proliferation and metastasis, as well as pulmonary fibrosis.",
+        "分子量": 539.6,
+        "分子式": "C31H33N5O4"
+    },
+    {
+        "DB编号": "DB04951",
+        "实验编号": 746,
+        "药品名称": "Pirfenidone",
+        "上市时间": "2014-10-15",
+        "Description": "A pyridone that is 2-pyridone substituted at positions 1 and 5 by phenyl and methyl groups respectively. An anti-inflammatory drug used for the treatment of idiopathic pulmonary fibrosis. An orally active synthetic antifibrotic agent structurally similar to pyridine 2,4-dicarboxylate. Pirfenidone inhibits fibroblast, epidermal, platelet-derived, and transforming beta-1 growth factors, thereby slowing tumor cell proliferation. This agent also inhibits DNA synthesis and the production of mRNA for collagen types I and III, resulting in a reduction in radiation-induced fibrosis. (NCI04)",
+        "分子量": 185.22,
+        "分子式": "C12H11NO"
+    },
+    {
+        "DB编号": "DB09296",
+        "实验编号": 452,
+        "药品名称": "Ombitasvir",
+        "上市时间": "2014-12-19",
+        "Description": "Description Not Available",
+        "分子量": 894.1,
+        "分子式": "C50H67N7O8"
+    },
+    {
+        "DB编号": "DB09297",
+        "实验编号": 212,
+        "药品名称": "Paritaprevir",
+        "上市时间": "2014-12-19",
+        "Description": "Description Not Available",
+        "分子量": 765.9,
+        "分子式": "C40H43N7O7S"
+    },
+    {
+        "DB编号": "DB09075",
+        "实验编号": 744,
+        "药品名称": "Edoxaban",
+        "上市时间": "2015-01-08",
+        "Description": "A hydrate that is the monohydrate of the tosylate salt of edoxaban. Used for the treatment of deep vein thrombosis and pulmonary embolism. A monocarboxylic acid amide that is used (as its tosylate monohydrate) for the treatment of deep vein thrombosis and pulmonary embolism. An orally active inhibitor of coagulation factor Xa (activated factor X) with anticoagulant activity. Edoxaban is administered as edoxaban tosylate. This agent has an elimination half-life of 9-11 hours and undergoes renal excretion.",
+        "分子量": 548.1,
+        "分子式": "C24H30ClN7O4S"
+    },
+    {
+        "DB编号": "DB09147",
+        "实验编号": 1555,
+        "药品名称": "Ferric pyrophosphate",
+        "上市时间": "2015-01-23",
+        "Description": "Not Found",
+        "分子量": 745.21,
+        "分子式": "Fe4O21P6"
+    },
+    {
+        "DB编号": "DB06603",
+        "实验编号": 1098,
+        "药品名称": "Panobinostat",
+        "上市时间": "2015-02-23",
+        "Description": "A cinnamic hydroxamic acid analogue with potential antineoplastic activity. Panobinostat selectively inhibits histone deacetylase (HDAC), inducing hyperacetylation of core histone proteins, which may result in modulation of cell cycle protein expression, cell cycle arrest in the G2/M phase and apoptosis. In addition, this agent appears to modulate the expression of angiogenesis-related genes, such as hypoxia-inducible factor-1alpha (HIF-1a) and vascular endothelial growth factor (VEGF), thus impairing endothelial cell chemotaxis and invasion. HDAC is an enzyme that deacetylates chromatin histone proteins. A hydroxamic acid obtained by formal condensation of the carboxy group of (2E)-3-[4-({[2-(2-methylindol-3-yl)ethyl]amino}methyl)phenyl]prop-2-enoic acid with the amino group of hydroxylamine. A histone deacetylase inhibitor used (as its lactate salt) in combination with bortezomib and dexamethasone for the treatment of multiple myeloma. An indole and hydroxamic acid derivative that acts as a HISTONE DEACETYLASE inhibitor. It is used as an antineoplastic agent in combination with BORTEZOMIB and DEXAMETHASONE for the treatment of MULTIPLE MYELOMA.",
+        "分子量": 349.4,
+        "分子式": "C21H23N3O2"
+    },
+    {
+        "DB编号": "DB06636",
+        "实验编号": 1077,
+        "药品名称": "Isavuconazonium",
+        "上市时间": "2015-03-06",
+        "Description": "Not Found",
+        "分子量": 717.8,
+        "分子式": "C35H35F2N8O5S+"
+    },
+    {
+        "DB编号": "DB02659",
+        "实验编号": 1566,
+        "药品名称": "Cholic Acid",
+        "上市时间": "2015-03-17",
+        "Description": "A bile acid that is 5beta-cholan-24-oic acid bearing three alpha-hydroxy substituents at position 3, 7 and 12. A major primary bile acid produced in the liver and usually conjugated with glycine or taurine. It facilitates fat absorption and cholesterol excretion.",
+        "分子量": 408.6,
+        "分子式": "C24H40O5"
+    },
+    {
+        "DB编号": "DB03619",
+        "实验编号": 1440,
+        "药品名称": "Deoxycholic acid",
+        "上市时间": "2015-04-29",
+        "Description": "A bile acid formed by bacterial action from cholate. It is usually conjugated with glycine or taurine. Deoxycholic acid acts as a detergent to solubilize fats for intestinal absorption, is reabsorbed itself, and is used as a choleretic and detergent. A bile acid that is 5beta-cholan-24-oic acid substituted by hydroxy groups at positions 3 and 12 respectively. A steroidal acid that is a secondary bile acid, with cytolytic activity. Upon subcutaneous administration, deoxycholic acid causes lysis of adipocytes and improves the appearance of fullness associated with submental fat. Also, it may potentially be able to reduce fat in other subcutaneous fatty tissues. Deoxycholic acid, naturally produced by the metabolism of cholic acid by intestinal bacteria, is involved in the emulsification of dietary fats in the intestine.",
+        "分子量": 392.6,
+        "分子式": "C24H40O4"
+    },
+    {
+        "DB编号": "DB09272",
+        "实验编号": 1400,
+        "药品名称": "Eluxadoline",
+        "上市时间": "2015-05-27",
+        "Description": "An amino acid amide obtained by the formal condensation of the carboxy group of 4-carbamoyl-2,6-dimethyl-L-phenylalanine with the secondary amino group of 2-methoxy-5-({[(1S)-1-(4-phenylimidazol-2-yl)ethyl]amino}methyl)benzoic acid. It has mixed opioid receptor activity and is used for treatment of  irritable bowel syndrome with diarrhoea.",
+        "分子量": 569.6,
+        "分子式": "C32H35N5O5"
+    },
+    {
+        "DB编号": "DB06441",
+        "实验编号": 751,
+        "药品名称": "Cangrelor",
+        "上市时间": "2015-06-22",
+        "Description": "A nucleoside triphosphate analogue that is 5'-O-[({[dichloro(phosphono)methyl](hydroxy)phosphoryl}oxy)(hydroxy)phosphoryl]adenosine carrying additional 2-(methylsulfanyl)ethyl and (3,3,3-trifluoropropyl)sulfanyl substituents at positions N6 and C2 respectively. Used (in the form of its tetrasodium salt) as an intravenous antiplatelet drug that prevents formation of harmful blood clots in the coronary arteries.",
+        "分子量": 776.4,
+        "分子式": "C17H25Cl2F3N5O12P3S2"
+    },
+    {
+        "DB编号": "DB09292",
+        "实验编号": 1352,
+        "药品名称": "Sacubitril",
+        "上市时间": "2015-07-07",
+        "Description": "Not Found",
+        "分子量": 411.5,
+        "分子式": "C24H29NO5"
+    },
+    {
+        "DB编号": "DB09128",
+        "实验编号": 957,
+        "药品名称": "Brexpiprazole",
+        "上市时间": "2015-07-10",
+        "Description": "Description Not Available",
+        "分子量": 433.6,
+        "分子式": "C25H27N3O2S"
+    },
+    {
+        "DB编号": "DB09102",
+        "实验编号": 1412,
+        "药品名称": "Daclatasvir",
+        "上市时间": "2015-07-24",
+        "Description": "Not Found",
+        "分子量": 738.9,
+        "分子式": "C40H50N8O6"
+    },
+    {
+        "DB编号": "DB09291",
+        "实验编号": 1103,
+        "药品名称": "Rolapitant",
+        "上市时间": "2015-09-01",
+        "Description": "An azaspiro compound that is 1,7-diazaspiro[4.5]decan-2-one carrying additional phenyl and 1-{[3,5-bis(trifluoromethyl)phenyl]ethoxy}methyl substituents at position 8. Used (in the form of the hydrochloride hydrate) for the prevention of delayed nausea and vomiting associated with initial and repeat courses of emetogenic cancer chemotherapy.",
+        "分子量": 500.5,
+        "分子式": "C25H26F6N2O2"
+    },
+    {
+        "DB编号": "DB09343",
+        "实验编号": 1584,
+        "药品名称": "Tipiracil",
+        "上市时间": "2015-09-22",
+        "Description": "Not Found",
+        "分子量": 242.66,
+        "分子式": "C9H11ClN4O2"
+    },
+    {
+        "DB编号": "DB05109",
+        "实验编号": 670,
+        "药品名称": "Trabectedin",
+        "上市时间": "2015-10-23",
+        "Description": "A complex structure that includes isoquinolines joined by a cyclic ester; it is a DNA-binding agent and guanine N2 alkylator derived from the marine tunicate, Ecteinascidia turbinata. Trabectedin is used for the treatment of advanced soft-tissue SARCOMA, after failure of ANTHRACYCLINES or IFOSFAMIDE drug therapy. A tetrahydroisoquinoline alkaloid isolated from the marine tunicate Ecteinascidia turbinata with potential antineoplastic activity. Binding to the minor groove of DNA, trabectedin interferes with the transcription-coupled nucleotide excision repair machinery to induce lethal DNA strand breaks and blocks the cell cycle in the G2 phase. A tetrahydroisoquinoline alkaloid obtained from a Caribbean tunicate Ecteinascidia turbinata. Used for the treatment of soft tissue sarcoma and relapsed ovarian cancer.",
+        "分子量": 761.8,
+        "分子式": "C39H43N3O11S"
+    },
+    {
+        "DB编号": "DB05239",
+        "实验编号": 1190,
+        "药品名称": "Cobimetinib",
+        "上市时间": "2015-11-10",
+        "Description": "A fumarate salt prepared from cobimetinib by reaction of one molecule of fumaric acid for every two molecules of cobimetinib. An inhibitor of mitogen-activated protein kinase that is used in combination with vemurafenib for the treatment of patients with unresectable or metastatic melanoma. A member of the class of N-acylazetidines obtained by selective formal condensation of the carboxy group of 3,4-difluoro-2-(2-fluoro-4-iodoanilino)benzoic acid with the secondary amino group from the azetidine ring of 3-[(2S)-piperidin-2-yl]azetidin-3-ol. An inhibitor of mitogen-activated protein kinase that is used (as its fumarate salt) in combination with vemurafenib for the treatment of patients with unresectable or metastatic melanoma. An orally bioavailable small-molecule inhibitor of mitogen-activated protein kinase kinase 1 (MAP2K1 or MEK1), with potential antineoplastic activity. Cobimetinib specifically binds to and inhibits the catalytic activity of MEK1, resulting in inhibition of extracellular signal-related kinase 2 (ERK2) phosphorylation and activation and decreased tumor cell proliferation. Preclinical studies have demonstrated that this agent is effective in inhibiting the growth of tumor cells bearing a B-RAF mutation, which has been found to be associated with many tumor types. A threonine-tyrosine kinase and a key component of the RAS/RAF/MEK/ERK signaling pathway that is frequently activated in human tumors, MEK1 is required for the transmission of growth-promoting signals from numerous receptor tyrosine kinases.",
+        "分子量": 531.3,
+        "分子式": "C21H21F3IN3O2"
+    },
+    {
+        "DB编号": "DB11575",
+        "实验编号": 447,
+        "药品名称": "Grazoprevir",
+        "上市时间": "2016-01-28",
+        "Description": "Not Found",
+        "分子量": 766.9,
+        "分子式": "C38H50N6O9S"
+    },
+    {
+        "DB编号": "DB11574",
+        "实验编号": 551,
+        "药品名称": "Elbasvir",
+        "上市时间": "2016-01-28",
+        "Description": "Description Not Available",
+        "分子量": 882,
+        "分子式": "C49H55N9O7"
+    },
+    {
+        "DB编号": "DB09241",
+        "实验编号": 66,
+        "药品名称": "Methylene blue",
+        "上市时间": "2016-04-08",
+        "Description": "A compound consisting of dark green crystals or crystalline powder, having a bronze-like luster. Solutions in water or alcohol have a deep blue color. Methylene blue is used as a bacteriologic stain and as an indicator. It inhibits GUANYLATE CYCLASE, and has been used to treat cyanide poisoning and to lower levels of METHEMOGLOBIN. A synthetic basic dye. Methylene blue stains to negatively charged cell components like nucleic acids; when administered in the lymphatic bed of a tumor during oncologic surgery, methylene blue may stain lymph nodes draining from the tumor, thereby aiding in the visual localization of tumor sentinel lymph nodes. When administered intravenously in low doses, this agent may convert methemoglobin to hemoglobin. An organic chloride salt having 3,7-bis(dimethylamino)phenothiazin-5-ium as the counterion. A commonly used dye that also exhibits antioxidant, antimalarial, antidepressant and cardioprotective properties.",
+        "分子量": 319.9,
+        "分子式": "C16H18ClN3S"
+    },
+    {
+        "DB编号": "DB05316",
+        "实验编号": 1583,
+        "药品名称": "Pimavanserin",
+        "上市时间": "2016-04-29",
+        "Description": "A member of the class of ureas in which three of the four hydrogens are replaced by 4-fluorobenzyl, 1-methylpiperidin-4-yl, and 4-(isopropyloxy)benzyl groups. An atypical antipsychotic that is used (in the form of its tartrate salt) for treatment of hallucinations and delusions associated with Parkinson's disease.",
+        "分子量": 427.6,
+        "分子式": "C25H34FN3O2"
+    },
+    {
+        "DB编号": "DB05541",
+        "实验编号": 406,
+        "药品名称": "Brivaracetam",
+        "上市时间": "2016-05-12",
+        "Description": "A non-proteinogenic amino acid derivative that is butanamide in which the pro-S hydrogen at position 2 is replaced by a (4R)-2-oxo-4-propylpyrrolidin-1-yl. Used for treatment of partial onset seizures related to epilepsy. An orally bioavailable levetiracetam derivative, with anticonvulsant activity. Although the exact mechanism through which brivaracetam exerts its effects is not fully known, this agent targets and binds to synaptic vesicle protein 2A (SV2A) in the brain. This prevents synaptic vesicle exocytosis and the synaptic release of certain, as of yet not fully known, excitatory neurotransmitters. This may inhibit impulse conduction across synapses, decrease neuronal (hyper-)excitability, and may modulate epileptogenesis. SV2A, a membrane glycoprotein present in neuronal synaptic vesicles, plays a key role in action potential-induced neurotransmitter release in the brain.",
+        "分子量": 212.29,
+        "分子式": "C11H20N2O2"
+    },
+    {
+        "DB编号": "DB05990",
+        "实验编号": 1677,
+        "药品名称": "Obeticholic acid",
+        "上市时间": "2016-05-27",
+        "Description": "A dihydroxy-5beta-cholanic acid that is chenodeoxycholic acid carrying an additional ethyl substituent at the 6alpha-position. A semi-synthetic bile acid which acts as a farnesoid X receptor agonist and is used for treatment of primary biliary cholangitis. An orally bioavailable semi-synthetic bile acid derivative and an agonist of the nuclear bile acid receptor farnesoid X receptor (FXR) that may be used to lower hepatic exposure to bile acids. Upon oral administration, obeticholic acid targets and binds to FXR expressed in the liver and intestine, activating FXR-mediated bile acid, inflammatory, fibrotic, and metabolic pathways. This suppresses the production of bile acid in the hepatocytes and increases bile acid transport out of the hepatocytes, thereby reducing hepatic exposure to bile acids. FXR plays an important role in bile acid homeostasis and is involved in hepatic and intestinal inflammation and liver fibrosis.",
+        "分子量": 420.6,
+        "分子式": "C26H44O4"
+    },
+    {
+        "DB编号": "DB11730",
+        "实验编号": 1370,
+        "药品名称": "Ribociclib",
+        "上市时间": "2017-03-13",
+        "Description": "An orally available cyclin-dependent kinase (CDK) inhibitor targets at cyclin D1/CDK4 and cyclin D3/CDK6 cell cycle pathway, with potential antineoplastic activity. Ribociclib specifically inhibits CDK4 and 6, thereby inhibiting retinoblastoma (Rb) protein phosphorylation. Inhibition of Rb phosphorylation prevents CDK-mediated G1-S phase transition, thereby arresting the cell cycle in the G1 phase, suppressing DNA synthesis and inhibiting cancer cell growth. Overexpression of CDK4/6, as seen in certain types of cancer, causes cell cycle deregulation.",
+        "分子量": 434.5,
+        "分子式": "C23H30N8O"
+    },
+    {
+        "DB编号": "DB06654",
+        "实验编号": 646,
+        "药品名称": "Safinamide",
+        "上市时间": "2017-03-21",
+        "Description": "Description Not Available",
+        "分子量": 302.34,
+        "分子式": "C17H19FN2O2"
+    },
+    {
+        "DB编号": "DB11793",
+        "实验编号": 1183,
+        "药品名称": "Niraparib",
+        "上市时间": "2017-03-27",
+        "Description": "A 2-[4-(piperidin-3-yl)phenyl]-2H-indazole-7-carboxamide that has S-configuration. It is a potent inhibitor of PARP1 and PARP2 (IC50 of 3.8 and 2.1 nM, respectively) and approved as a first-line maintenance treatment for women with advanced ovarian cancer after responding to platinum-based chemotherapy. An orally bioavailable inhibitor of poly (ADP-ribose) polymerase (PARP) types 1 and 2 (PARP-1 and -2), with antineoplastic activity. Upon administration, niraparib binds to and inhibits the activity of PARP-1 and -2, thereby inhibiting PARP-1 and -2-mediated DNA repair, enhancing the accumulation of DNA strand breaks, promoting genomic instability and resulting in apoptosis. The PARP family of proteins catalyzes post-translational ADP-ribosylation of nuclear proteins and is activated by single-strand DNA (ssDNA) breaks.",
+        "分子量": 320.4,
+        "分子式": "C19H20N4O"
+    },
+    {
+        "DB编号": "DB12161",
+        "实验编号": 399,
+        "药品名称": "Deutetrabenazine",
+        "上市时间": "2017-04-03",
+        "Description": "Description Not Available",
+        "分子量": 317.4,
+        "分子式": "C19H27NO3"
+    },
+    {
+        "DB编号": "DB11915",
+        "实验编号": 538,
+        "药品名称": "Valbenazine",
+        "上市时间": "2017-04-11",
+        "Description": "Description Not Available",
+        "分子量": 418.6,
+        "分子式": "C24H38N2O4"
+    },
+    {
+        "DB编号": "DB06595",
+        "实验编号": 422,
+        "药品名称": "Midostaurin",
+        "上市时间": "2017-04-28",
+        "Description": "A synthetic indolocarbazole multikinase inhibitor with potential antiangiogenic and antineoplastic activities. Midostaurin inhibits protein kinase C alpha (PKCalpha), vascular endothelial growth factor receptor 2 (VEGFR2), c-kit, platelet-derived growth factor receptor (PDGFR) and FMS-like tyrosine kinase 3 (FLT3) tyrosine kinases, which may result in disruption of the cell cycle, inhibition of proliferation, apoptosis, and inhibition of angiogenesis in susceptible tumors. An organic heterooctacyclic compound that is the N-benzoyl derivative of staurosporine.",
+        "分子量": 570.6,
+        "分子式": "C35H30N4O4"
+    },
+    {
+        "DB编号": "DB12267",
+        "实验编号": 402,
+        "药品名称": "Brigatinib",
+        "上市时间": "2017-04-28",
+        "Description": "An orally available inhibitor of receptor tyrosine kinases anaplastic lymphoma kinase (ALK) and the epidermal growth factor receptor (EGFR) with potential antineoplastic activity. Brigatinib binds to and inhibits ALK kinase and ALK fusion proteins as well as EGFR and mutant forms. This leads to the inhibition of ALK kinase and EGFR kinase, disrupts their signaling pathways and eventually inhibits tumor cell growth in susceptible tumor cells. In addition, AP26113 appears to overcome mutation-based resistance. ALK belongs to the insulin receptor superfamily and plays an important role in nervous system development; ALK dysregulation and gene rearrangements are associated with a series of tumors. EGFR is overexpressed in a variety of cancer cell types.",
+        "分子量": 584.1,
+        "分子式": "C29H39ClN7O2P"
+    },
+    {
+        "DB编号": "DB11126",
+        "实验编号": 1505,
+        "药品名称": "Calcium gluconate",
+        "上市时间": "2017-06-15",
+        "Description": "The calcium salt of D-gluconic acid. The calcium salt of gluconic acid. The compound has a variety of uses, including its use as a calcium replenisher in hypocalcemic states. The gluconate salt of calcium. An element or mineral necessary for normal nerve, muscle, and cardiac function, calcium as the gluconate salt helps to maintain calcium balance and prevent bone loss when taken orally. This agent may also be chemopreventive for colon and other cancers. (NCI04)",
+        "分子量": 430.37,
+        "分子式": "C12H22CaO14"
+    },
+    {
+        "DB编号": "DB11943",
+        "实验编号": 1676,
+        "药品名称": "Delafloxacin",
+        "上市时间": "2017-06-19",
+        "Description": "Description Not Available",
+        "分子量": 440.8,
+        "分子式": "C18H12ClF3N4O4"
+    },
+    {
+        "DB编号": "DB12364",
+        "实验编号": 1560,
+        "药品名称": "Betrixaban",
+        "上市时间": "2017-06-23",
+        "Description": "A secondary carboxamide obtained by formal condensation of the carboxy group of 4-(N,N-dimethylcarbamimidoyl)benzoic acid with the amino group of 2-amino-N-(5-chloropyridin-2-yl)-5-methoxybenzamide. A synthetic anticoagulant compound that targets activated factor Xa in the coagulation cascade. An orally active inhibitor of coagulation factor Xa (activated factor X) with anticoagulant activity. Betrixaban is primarily excreted unchanged in the bile and has a half life of about 19 hours.",
+        "分子量": 451.9,
+        "分子式": "C23H22ClN5O3"
+    },
+    {
+        "DB编号": "DB13879",
+        "实验编号": 1661,
+        "药品名称": "Glecaprevir",
+        "上市时间": "2017-08-03",
+        "Description": "Not Found",
+        "分子量": 838.9,
+        "分子式": "C38H46F4N6O9S"
+    },
+    {
+        "DB编号": "DB11660",
+        "实验编号": 1575,
+        "药品名称": "Latanoprostene bunod",
+        "上市时间": "2017-11-02",
+        "Description": "Description Not Available",
+        "分子量": 507.6,
+        "分子式": "C27H41NO8"
+    },
+    {
+        "DB编号": "DB04948",
+        "实验编号": 734,
+        "药品名称": "Lofexidine",
+        "上市时间": "2018-05-16",
+        "Description": "Description Not Available",
+        "分子量": 295.6,
+        "分子式": "C11H13Cl3N2O"
+    },
+    {
+        "DB编号": "DB11817",
+        "实验编号": 573,
+        "药品名称": "Baricitinib",
+        "上市时间": "2018-05-31",
+        "Description": "A pyrrolopyrimidine that is 7H-pyrrolo[2,3-d]pyrimidine substituted by a 1-[3-(cyanomethyl)-1-(ethanesulfonyl)azetidin-3-yl]-1H-pyrazol-4-yl group at position 5. It is an FDA approved selective Janus Kinase 1 and 2 (JAK1 and JAK2) inhibitor used for the treatment of rheumatoid arthritis. An orally bioavailable inhibitor of Janus kinases 1 and 2 (JAK1/2), with potential anti-inflammatory, immunomodulating and antineoplastic activities. Upon administration, baricitinib binds to JAK1/2, which inhibits JAK1/2 activation and leads to the inhibition of the JAK-signal transducers and activators of transcription (STAT) signaling pathway. This decreases the production of inflammatory cytokines and may prevent an inflammatory response. In addition, baricitinib may induce apoptosis and reduce proliferation of JAK1/2-expressing tumor cells. JAK kinases are intracellular enzymes involved in cytokine signaling, inflammation, immune function and hematopoiesis; they are also upregulated and/or mutated in various tumor cell types.",
+        "分子量": 371.4,
+        "分子式": "C16H17N7O2S"
+    },
+    {
+        "DB编号": "DB00986",
+        "实验编号": 28,
+        "药品名称": "Glycopyrronium",
+        "上市时间": "2018-06-28",
+        "Description": "Not Found",
+        "分子量": 122.12,
+        "分子式": "C7H6O2"
+    },
+    {
+        "DB编号": "DB06480",
+        "实验编号": 1660,
+        "药品名称": "Prucalopride",
+        "上市时间": "2018-12-14",
+        "Description": "Description Not Available",
+        "分子量": 367.9,
+        "分子式": "C18H26ClN3O3"
+    },
+    {
+        "DB编号": "DB09274",
+        "实验编号": 1075,
+        "药品名称": "Artesunate",
+        "上市时间": "2020-05-26",
+        "Description": "A water-soluble, semi-synthetic derivative of the sesquiterpene lactone artemisinin with anti-malarial, anti-schistosomiasis, antiviral, and potential anti-neoplastic activities A water-soluble, semi-synthetic derivative of the sesquiterpine lactone artemisinin with anti-malarial, anti-schistosomiasis, antiviral, and potential anti-neoplastic activities. Upon hydrolysis of artesunate's active endoperoxide bridge moiety by liberated heme in parasite-infected red blood cells, reactive oxygen species and carbon-centered radicals form, which have been shown to damage and kill parasitic organisms. Additionally, in vitro studies demonstrate that this agent induces DNA breakage in a dose-dependent manner. Artesunate has also been shown to stimulate cell differentiation, arrest the cell cycle in the G1 and G2/M phases, inhibit cell proliferation, and induce apoptosis through mitochondrial and caspase signaling pathways. Artemisinin is isolated from the plant Artemisia annua. An artemisinin derivative that is the hemisuccinate ester of the lactol resulting from the reduction of the lactone carbonyl group of artemisinin. It is used, generally as the sodium salt, for the treatment of malaria.",
+        "分子量": 384.4,
+        "分子式": "C19H28O8"
+    },
+    {
+        "DB编号": "DB09185",
+        "实验编号": 1374,
+        "药品名称": "Viloxazine",
+        "上市时间": "2021-04-02",
+        "Description": "A morpholine derivative used as an antidepressant. It is similar in action to IMIPRAMINE.",
+        "分子量": 273.75,
+        "分子式": "C13H20ClNO3"
+    },
+    {
+        "DB编号": "DB02638",
+        "实验编号": 1067,
+        "药品名称": "Terlipressin",
+        "上市时间": "2022-09-14",
+        "Description": "A synthetic triglycyllysine derivative of vasopressin with vasoconstrictive, antihemorrhagic, and antidiuretic properties.  Upon intravenous administration, terlipressin, an inactive prodrug, is biotransformed to its active moiety, lysine vasopressin (LVP), a nonselective vasopressin analogue with affinity for vasopressin receptors V1 (V1a), V2 and V3 (V1b). As a V1 agonist, terlipressin increases systemic vascular resistance, particularly in the splanchnic area, resulting in a decrease of portal pressure. V1 binding also promotes platelet aggregation and glycogenolysis, while V3 binding induces adrenocorticotropic hormone (ACTH) secretion. Compared to vasopressin, terlipressin has a minimal effect on V2 receptors, which are responsible for promotion of water reabsorption in the collecting ducts of the kidney via stimulation of cyclic AMP production. An inactive peptide prodrug that is slowly converted in the body to lypressin. It is used to control bleeding of ESOPHAGEAL VARICES and for the treatment of HEPATORENAL SYNDROME.",
+        "分子量": 1227.4,
+        "分子式": "C52H74N16O15S2"
+    },
+    {
+        "DB编号": "DB04918",
+        "实验编号": 777,
+        "药品名称": "Ceftobiprole",
+        "上市时间": "2024-04-03",
+        "Description": "Not Found",
+        "分子量": 534.6,
+        "分子式": "C20H22N8O6S2"
+    },
+    {
+        "DB编号": "DB01605",
+        "实验编号": 853,
+        "药品名称": "Pivmecillinam",
+        "上市时间": "2024-04-24",
+        "Description": "Description Not Available",
+        "分子量": 476,
+        "分子式": "C21H34ClN3O5S"
+    }
+]
