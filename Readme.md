@@ -1,4 +1,4 @@
-# Code for Benchmarking Computational Methods for Emerging Drug-Drug Interaction Prediction:A Perspective from Drug Distribution Changes
+# Code for Benchmarking Computational Methods for Emerging Drug-Drug Interaction Prediction
 
 
 ## Installation
